@@ -237,6 +237,9 @@ General Assembly is not a traditional educational institution, but we share some
 * If you collaborate, you have to indicate that you did in a comment on the submission
 * You have to comment where you have used the solution branch (if one exists) or if you have used an external resource such as a tutorial
 
+### Professional Setting
+
+
 ## Classroom Constitution
 
 * Let's all collaborate, what are the behaviors we *do* want in our class? What are the ones we *don't* want?
