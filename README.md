@@ -30,10 +30,10 @@ After that, we'll give you an overview of the schedule for the first day.
 * 11:30 - 12:00 - Course content overview
 * 12:00 - 1:30 - Command Line
 * 1:30 - 2:30 - Lunch
-* 2:30 - 3:00 - Command Line Mini Lab
-* 3:00 - 4:30 - HTML/CSS Lesson 
-* 4:30 - 5:30 - HTML/CSS Lab
-* 5:30 - 6:00 - Homework Intro
+* 2:30 - 3:30 - Command Line Lab
+* 3:30 - 4:00 - Homework Intro
+* 4:00 - 4:30 - Standup
+* 4:30 - 6:00 - Outcomes
 
 ## What Is an Immersive Course?
 
@@ -219,7 +219,7 @@ Weekdays
 * **2:30-3:00**: Homework Review
 * **3:00-4:30**: Lesson 2
 * **4:30-5:30**: Lab 2
-* **5:30-6:00**: Daily Standup
+* **5:30-6:00**: Homework Introduction
 
 #### Project Weeks
 
@@ -228,7 +228,7 @@ Project weeks will be pretty much just time for you to work on your project.
 * There will be no scheduled lessons
 * We will also have presentations at the end of the week 🎉
 
-### Plagiarism
+## Plagiarism
 
 General Assembly is not a traditional educational institution, but we share some things in common. We have a plagiarism policy in place to create a healthy classroom culture where students prioritize their learning above all other goals for the duration of the cohort. We create a space where it is 'safe to fail' since 'failure' is such an integral part of the learning process.
 
@@ -237,8 +237,15 @@ General Assembly is not a traditional educational institution, but we share some
 * If you collaborate, you have to indicate that you did in a comment on the submission
 * You have to comment where you have used the solution branch (if one exists) or if you have used an external resource such as a tutorial
 
-### Professional Setting
+## Homework
 
+* Each day you will be given a homework assignment that is due the next morning at 10 AM. 
+* You must complete 80% of these homeworks to graduate the class.
+* They are graded on a 👍 or 👎 basis -- either they are complete or not. Whether they are complete or not depends on the effort you put in. They don't have to be 100% correct, but you do need to show that you put time into getting the correct answer.
+
+## Professional Setting
+
+* Treat each other with respect, and like co-workers. You're all in this together!
 
 ## Classroom Constitution
 
