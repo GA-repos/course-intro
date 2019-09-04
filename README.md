@@ -235,7 +235,9 @@ General Assembly is not a traditional educational institution, but we share some
 * You can't ask external people to do your work
 * You must understand your submissions -- if you can't explain them then the assumption is that you plagiarized
 * If you collaborate, you have to indicate that you did in a comment on the submission
-* You have to comment where you have used the solution branch (if one exists) or if you have used an external resource such as a tutorial
+* You have to comment where you have used the solution branch (if one exists) or if you have used an external resource such as a tutorial - make sure even still you aren't overly reliant on anything. Use a few lines of code at most.
+* Make sure you're googling parts of problems rather than the whole problem. The problem solving part of code is the hardest part - make sure you're doing that part too! These aren't research assignments!
+* Plagiarized submissions will not be graded and may lead to removal from the program.
 
 ## Homework
 
