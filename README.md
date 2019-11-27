@@ -104,7 +104,7 @@ Project weeks will be pretty much just time for you to work on your project.
 * There will be no scheduled lessons
 * We will also have presentations at the end of the week 🎉
 
-#### How to Ask for Help?
+### How to Ask for Help?
 
 Asking for help is what students find hardest in SEI. It is also what ultimately determines whether or not students will be successful in this class.
 
@@ -188,6 +188,12 @@ Spend two minutes discussing some answers to the following question: **What does
 * We have a large body of knowledge, experience, and expertise to draw on from the iterative nature of SEI; SIE has been through hundreds of iterations.
 * Each iteration of SEI has been driven in part by student feedback, and for that reason, we rely on your feedback. Please don't hesitate to provide us with feedback!
 
+### Gradual Release of Responsibility
+
+Being able to ask for help effectively will become increasingly crucial as the course progresses. During the first project, for example, we will be holding office hours throughout the dedicated project days. By the fourth project, however, all support will be conducted using Github issues. Between those two projects, instructors will be placing an increasing onus on the students to solve problems on their own with increasingly limited instructor support -- what we call a "gradual release of responsibility."
+
+While instructors love helping out, we've found that students become stronger developers by learning to solve their own problems. Your instructors won't be following you to your jobs so it's important to develop a sense of self-sufficiency while you're here.
+
 ## Growth Mindset
 
 [Growth Mindset](https://www.youtube.com/watch?v=-_oqghnxBmY_) -
@@ -216,13 +222,8 @@ The growth mindset here is understanding that even when something doesn't work, 
 
 Throughout the course of SEI many students say something along the lines of "I don't know how to do that." Many of you certainly will. If you do, however, just add "...yet" to the end of that sentence.
 
-### Gradual Release of Responsibility
-
-Being able to ask for help effectively will become increasingly crucial as the course progresses. During the first project, for example, we will be holding office hours throughout the dedicated project days. By the fourth project, however, all support will be conducted using Github issues. Between those two projects, instructors will be placing an increasing onus on the students to solve problems on their own with increasingly limited instructor support -- what we call a "gradual release of responsibility."
-
-While instructors love helping out, we've found that students become stronger developers by learning to solve their own problems. Your instructors won't be following you to your jobs so it's important to develop a sense of self-sufficiency while you're here.
-
-## Plagiarism
+## Course Policies
+### Plagiarism
 
 General Assembly is not a traditional educational institution, but we share some things in common. We have a plagiarism policy in place to create a healthy classroom culture where students prioritize their learning above all other goals for the duration of the cohort. We create a space where it is 'safe to fail' since 'failure' is such an integral part of the learning process.
 
@@ -233,13 +234,13 @@ General Assembly is not a traditional educational institution, but we share some
 * Make sure you're googling parts of problems rather than the whole problem. The problem solving part of code is the hardest part - make sure you're doing that part too! These aren't research assignments!
 * Plagiarized submissions will not be graded and may lead to removal from the program.
 
-## Homework
+### Homework
 
 * Each day you will be given a homework assignment that is due the next morning at 10 AM. 
 * You must complete 80% of these homeworks to graduate the class.
 * They are graded on a 👍 or 👎 basis -- either they are complete or not. Whether they are complete or not depends on the effort you put in. They don't have to be 100% correct, but you do need to show that you put time into getting the correct answer.
 
-## Professional Setting
+### Professional Setting
 
 * Treat each other with respect, and like co-workers. You're all in this together!
 
