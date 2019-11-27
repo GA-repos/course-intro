@@ -76,7 +76,7 @@ The course is divided into 4 units lasting roughtly 3 weeks each. Each unit conc
 * Intro to HTTP, Rest and APIs
 * Express
 * MongoDB
-* **Project 2** - build a full-stack app with Node, MongoDB, and EJS
+* **Project 2** - build a full-stack app with Node, MongoDB, and React
 
 ### Unit 4 - Weeks 10 - 12
 * Python/Django
