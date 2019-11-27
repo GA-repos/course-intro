@@ -10,26 +10,26 @@
 
 ## Welcome & Today's Schedule
 
-### Intro
+### Today's Schedule:
+* 10:00 - 11:30 - Welcome to SEIR 129 & Introductions/Icebreaker
+* 11:30 - 11:40 - Break
+* 11:40 - 12:00 - Course Content Overview
+* 12:00 - 12:30 - What is an Immersive Course?
+* 12:30 - 1:00 - Course Policies
+* 1:00 - 1:30 - Classroom Constitution
+* 1:30 - 2:30 - Lunch
+* 2:30 - 5:30 - Installfest/Command Line Interface
+* 5:30 - 6:00 - Instructor AMA
 
-Welcome to your first day of General Assembly's Software Engineering Immersive! Let's all introduce ourselves!
-
+### Introductions & Icebreaker
+Welcome to your first day of General Assembly's Software Engineering Immersive! Let's all introduce ourselves! 
+Say your:
 - Name
 - Your pronouns
 - Where you're located
-- What you were doing before this && what brought you here
-
-After that, we'll give you an overview of the schedule for the first day. 
-
-**Today's Schedule:**
-
-* 10:00 - 11:00 - Welcome to SEIR 129
-* 11:10 - 11:30 - Course Policies
-* 11:30 - 12:00 - Course content overview
-* 12:00 - 1:30 - Command Line
-* 1:30 - 2:30 - Lunch
-* 2:30 - 5:00 - Afternoon Lesson
-* 5:00 - 6:00 - Instructor AMA
+- What you were doing before this 
+- What brought you here to GA
+### Activity: Two Truths and a Lie
 
 ## Course Content Overview
 
@@ -37,7 +37,7 @@ GA's global team has built a baseline curriculum, which includes topics to cover
 
 We also iterate on this curriculum constantly so technologies and concepts change with each cohort.
 
-## Course Content
+### Course Content
 
 > What are some technologies and languages you know of that are involved in web development (e.g., HTML, CSS, Python, Databases).
 
@@ -46,10 +46,10 @@ A non-exhaustive list of technologies we cover...
 * HTML
 * CSS
 * JavaScript
-* Express
-* NodeJS
-* MongoDB
-* SQL
+* React
+* NodeJS/Express
+* MongoDB (NoSQL Database)
+* PostgreSQL (Relational Database)
 * Python/Django
 
 We cover these technologies / topics because they are foundational to web development, and learning the underlying concepts of how they work prepares you to learn and work in any web development technologies.
@@ -64,20 +64,23 @@ The course is divided into 4 units lasting roughtly 3 weeks each. Each unit conc
 
 * Intro to the Web and Development (HTML/CSS and Git)
 * JavaScript
+* Intro to HTTP, Rest and APIs
 * **Project 1** - Build a front-end application with HTML/CSS/JS
 
 ### Unit 2 - Weeks 5 - 7
+* React
+* **Project 3** build single page application with React
+
+### Unit 3 - Weeks 8 + 9
 * Intro to Node and NPM
 * Intro to HTTP, Rest and APIs
+* Express
 * MongoDB
 * **Project 2** - build a full-stack app with Node, MongoDB, and EJS
-  
-### Unit 3 - Weeks 8 + 9
-* React
-* **Project 3** build single page application with React and Node, MongoDB API
 
 ### Unit 4 - Weeks 10 - 12
 * Python/Django
+* PostgreSQL
 * **Project 4** Capstone project
 
 ## Course Logistics
@@ -88,14 +91,11 @@ The course is divided into 4 units lasting roughtly 3 weeks each. Each unit conc
 
 Weekdays
 
-* **10:00-11:00**: Homework Review
-* **11:00-12:30**: Lesson 1
-* **12:30-1:30**: Lab 1
+* **10:00-11:00**: Morning Activity
+* **11:00-1:30**: Lesson/Lab
 * **1:30-2:30**: Lunch
-* **2:30-3:00**: Homework Review
-* **3:00-4:30**: Lesson 2
-* **4:30-5:30**: Lab 2
-* **5:30-6:00**: Homework Introduction
+* **2:30-5:00**: Lesson/Lab
+* **5:00-6:00**: Study Hall/Code Challenge/Homework Introduction
 
 #### Project Weeks
 
@@ -103,6 +103,7 @@ Project weeks will be pretty much just time for you to work on your project.
 
 * There will be no scheduled lessons
 * We will also have presentations at the end of the week 🎉
+
 ## What Is an Immersive Course?
 
 Spend two minutes discussing some answers to the following question: **What does it mean to be in an "immersive" environment?**
