@@ -18,23 +18,91 @@ Welcome to your first day of General Assembly's Software Engineering Immersive! 
 - Your pronouns
 - Where you're located
 - What you were doing before this && what brought you here
-- What question we should ask you
 
 After that, we'll give you an overview of the schedule for the first day. 
 
 **Today's Schedule:**
 
-* 10:00 - 11:00 - What is an Immersive Course?
-* 11:00 - 11:10 - Break
+* 10:00 - 11:00 - Welcome to SEIR 129
 * 11:10 - 11:30 - Course Policies
 * 11:30 - 12:00 - Course content overview
 * 12:00 - 1:30 - Command Line
 * 1:30 - 2:30 - Lunch
-* 2:30 - 3:30 - Command Line Lab
-* 3:30 - 4:00 - Homework Intro
-* 4:00 - 4:30 - Standup
-* 4:30 - 6:00 - Outcomes
+* 2:30 - 5:00 - Afternoon Lesson
+* 5:00 - 6:00 - Instructor AMA
 
+## Course Content Overview
+
+GA's global team has built a baseline curriculum, which includes topics to cover and a suggested order. As a local campus, we have built on and modified this curriculum based on our own experiences as instructors and the unique features of the DC job market. Each lesson is designed by the instructor that's delivering it.
+
+We also iterate on this curriculum constantly so technologies and concepts change with each cohort.
+
+## Course Content
+
+> What are some technologies and languages you know of that are involved in web development (e.g., HTML, CSS, Python, Databases).
+
+A non-exhaustive list of technologies we cover...
+
+* HTML
+* CSS
+* JavaScript
+* Express
+* NodeJS
+* MongoDB
+* SQL
+* Python/Django
+
+We cover these technologies / topics because they are foundational to web development, and learning the underlying concepts of how they work prepares you to learn and work in any web development technologies.
+
+### Course Sequence
+
+The course is divided into 4 units lasting roughtly 3 weeks each. Each unit concludes with a 3-5 day project.
+
+## Units/Projects
+
+### Unit 1 - Weeks 1 - 4
+
+* Intro to the Web and Development (HTML/CSS and Git)
+* JavaScript
+* **Project 1** - Build a front-end application with HTML/CSS/JS
+
+### Unit 2 - Weeks 5 - 7
+* Intro to Node and NPM
+* Intro to HTTP, Rest and APIs
+* MongoDB
+* **Project 2** - build a full-stack app with Node, MongoDB, and EJS
+  
+### Unit 3 - Weeks 8 + 9
+* React
+* **Project 3** build single page application with React and Node, MongoDB API
+
+### Unit 4 - Weeks 10 - 12
+* Python/Django
+* **Project 4** Capstone project
+
+## Course Logistics
+
+### Weekly Schedule
+
+#### Normal Weeks
+
+Weekdays
+
+* **10:00-11:00**: Homework Review
+* **11:00-12:30**: Lesson 1
+* **12:30-1:30**: Lab 1
+* **1:30-2:30**: Lunch
+* **2:30-3:00**: Homework Review
+* **3:00-4:30**: Lesson 2
+* **4:30-5:30**: Lab 2
+* **5:30-6:00**: Homework Introduction
+
+#### Project Weeks
+
+Project weeks will be pretty much just time for you to work on your project.
+
+* There will be no scheduled lessons
+* We will also have presentations at the end of the week 🎉
 ## What Is an Immersive Course?
 
 Spend two minutes discussing some answers to the following question: **What does it mean to be in an "immersive" environment?**
@@ -152,81 +220,6 @@ How can we ask for help efficiently?
 Being able to ask for help effectively will become increasingly crucial as the course progresses. During the first project, for example, we will be holding office hours throughout the dedicated project days. By the fourth project, however, all support will be conducted using Github issues. Between those two projects, instructors will be placing an increasing onus on the students to solve problems on their own with increasingly limited instructor support -- what we call a "gradual release of responsibility."
 
 While instructors love helping out, we've found that students become stronger developers by learning to solve their own problems. Your instructors won't be following you to your jobs so it's important to develop a sense of self-sufficiency while you're here.
-
-## Break
-
-## Course Content
-
-GA's global team has built a baseline curriculum, which includes topics to cover and a suggested order. As a local campus, we have built on and modified this curriculum based on our own experiences as instructors and the unique features of the DC job market. Each lesson is designed by the instructor that's delivering it.
-
-We also iterate on this curriculum constantly so technologies and concepts change with each cohort.
-
-## Course Content
-
-> What are some technologies and languages you know of that are involved in web development (e.g., HTML, CSS, Python, Databases).
-
-A non-exhaustive list of technologies we cover...
-
-* HTML
-* CSS
-* JavaScript
-* Express
-* NodeJS
-* MongoDB
-* SQL
-* Python/Django
-
-We cover these technologies / topics because they are foundational to web development, and learning the underlying concepts of how they work prepares you to learn and work in any web development technologies.
-
-### Course Sequence
-
-The course is divided into 4 units lasting roughtly 3 weeks each. Each unit concludes with a 3-5 day project.
-
-## Units/Projects
-
-### Unit 1 - Weeks 1 - 4
-
-* Intro to the Web and Development (HTML/CSS and Git)
-* JavaScript
-* **Project 1** - Build a front-end application with HTML/CSS/JS
-
-### Unit 2 - Weeks 5 - 7
-* Intro to Node and NPM
-* Intro to HTTP, Rest and APIs
-* MongoDB
-* **Project 2** - build a full-stack app with Node, MongoDB, and EJS
-  
-### Unit 3 - Weeks 8 + 9
-* React
-* **Project 3** build single page application with React and Node, MongoDB API
-
-### Unit 4 - Weeks 10 - 12
-* Python/Django
-* **Project 4** Capstone project
-
-## Course Logistics
-
-### Weekly Schedule
-
-#### Normal Weeks
-
-Weekdays
-
-* **10:00-11:00**: Homework Review
-* **11:00-12:30**: Lesson 1
-* **12:30-1:30**: Lab 1
-* **1:30-2:30**: Lunch
-* **2:30-3:00**: Homework Review
-* **3:00-4:30**: Lesson 2
-* **4:30-5:30**: Lab 2
-* **5:30-6:00**: Homework Introduction
-
-#### Project Weeks
-
-Project weeks will be pretty much just time for you to work on your project.
-
-* There will be no scheduled lessons
-* We will also have presentations at the end of the week 🎉
 
 ## Plagiarism
 
