@@ -14,9 +14,10 @@
 * 10:00 - 11:30 - Welcome to SEIR 129 & Introductions/Icebreaker
 * 11:30 - 11:40 - Break
 * 11:40 - 12:00 - Course Content Overview
-* 12:00 - 12:30 - What is an Immersive Course?
-* 12:30 - 1:00 - Course Policies
-* 1:00 - 1:30 - Classroom Constitution
+* 12:00 - 12:20 - Course Logistics
+* 12:20 - 12:40 - Course Policies
+* 12:40 - 1:10 - What is an Immersive Course?
+* 1:10 - 1:30 - Classroom Constitution
 * 1:30 - 2:30 - Lunch
 * 2:30 - 5:30 - Installfest/Command Line Interface
 * 5:30 - 6:00 - Instructor AMA
@@ -126,6 +127,25 @@ How can we ask for help efficiently?
 > [this lesson plan](https://git.generalassemb.ly/ga-wdi-lessons/effective_questions)
 > if you'd like to learn more about how to ask effective questions.
 
+## Course Policies
+### Plagiarism
+General Assembly is not a traditional educational institution, but we share some things in common. We have a plagiarism policy in place to create a healthy classroom culture where students prioritize their learning above all other goals for the duration of the cohort. We create a space where it is 'safe to fail' since 'failure' is such an integral part of the learning process.
+
+* You can't ask external people to do your work
+* You must understand your submissions -- if you can't explain them then the assumption is that you plagiarized
+* If you collaborate, you have to indicate that you did in a comment on the submission
+* You have to comment where you have used the solution branch (if one exists) or if you have used an external resource such as a tutorial - make sure even still you aren't overly reliant on anything. Use a few lines of code at most.
+* Make sure you're googling parts of problems rather than the whole problem. The problem solving part of code is the hardest part - make sure you're doing that part too! These aren't research assignments!
+* Plagiarized submissions will not be graded and may lead to removal from the program.
+
+### Homework
+* Each day you will be given a homework assignment that is due the next morning at 10 AM. 
+* You must complete 80% of these homeworks to graduate the class.
+* They are graded on a 👍 or 👎 basis -- either they are complete or not. Whether they are complete or not depends on the effort you put in. They don't have to be 100% correct, but you do need to show that you put time into getting the correct answer.
+
+### Professional Setting
+* Treat each other with respect, and like co-workers. You're all in this together!
+
 ## What Is an Immersive Course?
 
 Spend two minutes discussing some answers to the following question: **What does it mean to be in an "immersive" environment?**
@@ -221,28 +241,6 @@ The growth mindset here is understanding that even when something doesn't work, 
 * Google is your best friend
 
 Throughout the course of SEI many students say something along the lines of "I don't know how to do that." Many of you certainly will. If you do, however, just add "...yet" to the end of that sentence.
-
-## Course Policies
-### Plagiarism
-
-General Assembly is not a traditional educational institution, but we share some things in common. We have a plagiarism policy in place to create a healthy classroom culture where students prioritize their learning above all other goals for the duration of the cohort. We create a space where it is 'safe to fail' since 'failure' is such an integral part of the learning process.
-
-* You can't ask external people to do your work
-* You must understand your submissions -- if you can't explain them then the assumption is that you plagiarized
-* If you collaborate, you have to indicate that you did in a comment on the submission
-* You have to comment where you have used the solution branch (if one exists) or if you have used an external resource such as a tutorial - make sure even still you aren't overly reliant on anything. Use a few lines of code at most.
-* Make sure you're googling parts of problems rather than the whole problem. The problem solving part of code is the hardest part - make sure you're doing that part too! These aren't research assignments!
-* Plagiarized submissions will not be graded and may lead to removal from the program.
-
-### Homework
-
-* Each day you will be given a homework assignment that is due the next morning at 10 AM. 
-* You must complete 80% of these homeworks to graduate the class.
-* They are graded on a 👍 or 👎 basis -- either they are complete or not. Whether they are complete or not depends on the effort you put in. They don't have to be 100% correct, but you do need to show that you put time into getting the correct answer.
-
-### Professional Setting
-
-* Treat each other with respect, and like co-workers. You're all in this together!
 
 ## Classroom Constitution
 
