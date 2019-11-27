@@ -104,6 +104,28 @@ Project weeks will be pretty much just time for you to work on your project.
 * There will be no scheduled lessons
 * We will also have presentations at the end of the week 🎉
 
+#### How to Ask for Help?
+
+Asking for help is what students find hardest in SEI. It is also what ultimately determines whether or not students will be successful in this class.
+
+* Without fail, the students who do not ask for help do the poorest in the class.
+* **Knowing how to ask for help and where to look for answers** are two of the biggest skills you can gain from this class and will be incredibly valuable as you prepare to join the professional workforce.
+
+How can we ask for help efficiently?
+
+* Ask a clear problem. "I don't know any of this" isn't a clear problem. "I tried this thing and got this error" is a clear problem.
+* Your instructors and peers won't be able to help you if...
+  * The question you're asking isn't constructive
+  * It's clear you haven't made an effort to find the answer. This means taking the following steps...
+    1. First, try it yourself
+    1. Then, Google it
+    1. Then, ask your neighbor
+    1. Finally, ask an instructor
+
+> Check out
+> [this lesson plan](https://git.generalassemb.ly/ga-wdi-lessons/effective_questions)
+> if you'd like to learn more about how to ask effective questions.
+
 ## What Is an Immersive Course?
 
 Spend two minutes discussing some answers to the following question: **What does it mean to be in an "immersive" environment?**
@@ -193,28 +215,6 @@ The growth mindset here is understanding that even when something doesn't work, 
 * Google is your best friend
 
 Throughout the course of SEI many students say something along the lines of "I don't know how to do that." Many of you certainly will. If you do, however, just add "...yet" to the end of that sentence.
-
-## How to Ask for Help?
-
-Asking for help is what students find hardest in SEI. It is also what ultimately determines whether or not students will be successful in this class.
-
-* Without fail, the students who do not ask for help do the poorest in the class.
-* **Knowing how to ask for help and where to look for answers** are two of the biggest skills you can gain from this class and will be incredibly valuable as you prepare to join the professional workforce.
-
-How can we ask for help efficiently?
-
-* Ask a clear problem. "I don't know any of this" isn't a clear problem. "I tried this thing and got this error" is a clear problem.
-* Your instructors and peers won't be able to help you if...
-  * The question you're asking isn't constructive
-  * It's clear you haven't made an effort to find the answer. This means taking the following steps...
-    1. First, try it yourself
-    1. Then, Google it
-    1. Then, ask your neighbor
-    1. Finally, ask an instructor
-
-> Check out
-> [this lesson plan](https://git.generalassemb.ly/ga-wdi-lessons/effective_questions)
-> if you'd like to learn more about how to ask effective questions.
 
 ### Gradual Release of Responsibility
 
