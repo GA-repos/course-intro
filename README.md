@@ -1,19 +1,19 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to SEI!!! 🎉
 
-## Learning Objectives
+## Learning Objectives (Jennifer)
 
 * Get to know each other
-* Determine guiding principles for our class culture
-* List the core expectations of instructors and students
 * Map out the topics and technologies of web development, and identify which we will and will not cover
+* List the core expectations of instructors and students
+* Determine guiding principles for our class culture
 * List the main "Dos" and "Don'ts" for the class and the space and create a classroom constitution
 
 ## Welcome & Today's Schedule
 
-### Today's Schedule:
+### Today's Schedule (Jerrica):
 * 10:00 - 11:30 - Welcome to SEIR 129 & Introductions/Icebreaker
 * 11:30 - 11:40 - Break
-* 11:40 - 12:00 - Course Content Overview
+* 11:40 - 12:00 - Course Content
 * 12:00 - 12:20 - Course Logistics
 * 12:20 - 12:40 - Course Policies
 * 12:40 - 1:10 - What is an Immersive Course?
@@ -22,7 +22,7 @@
 * 2:30 - 5:30 - Installfest/Command Line Interface
 * 5:30 - 6:00 - Instructor AMA
 
-### Introductions & Icebreaker
+### Introductions & Icebreaker (Jerrica)
 Welcome to your first day of General Assembly's Software Engineering Immersive! Let's all introduce ourselves! 
 Say your:
 - Name
@@ -30,15 +30,12 @@ Say your:
 - Where you're located
 - What you were doing before this 
 - What brought you here to GA
-### Activity: Two Truths and a Lie
+#### Activity: Two Truths and a Lie
 
-## Course Content Overview
+## Course Content Overview 
+GA's global team has built a baseline curriculum, which includes topics to cover and a suggested order. As a local campus, we have built on and modified this curriculum based on our own experiences as instructors and the unique features of the job market. We also iterate on this curriculum constantly so technologies and concepts change with each cohort.
 
-GA's global team has built a baseline curriculum, which includes topics to cover and a suggested order. As a local campus, we have built on and modified this curriculum based on our own experiences as instructors and the unique features of the DC job market. Each lesson is designed by the instructor that's delivering it.
-
-We also iterate on this curriculum constantly so technologies and concepts change with each cohort.
-
-### Course Content
+### Course Content (Hou)
 
 > What are some technologies and languages you know of that are involved in web development (e.g., HTML, CSS, Python, Databases).
 
@@ -55,31 +52,31 @@ A non-exhaustive list of technologies we cover...
 
 We cover these technologies / topics because they are foundational to web development, and learning the underlying concepts of how they work prepares you to learn and work in any web development technologies.
 
-### Course Sequence
+### Course Sequence (Hou)
 
 The course is divided into 4 units lasting roughtly 3 weeks each. Each unit concludes with a 3-5 day project.
 
-## Units/Projects
+### Units/Projects
 
-### Unit 1 - Weeks 1 - 4
+#### Unit 1 - Weeks 1 - 4
 
 * Intro to the Web and Development (HTML/CSS and Git)
 * JavaScript
 * Intro to HTTP, Rest and APIs
 * **Project 1** - Build a front-end application with HTML/CSS/JS
 
-### Unit 2 - Weeks 5 - 7
+#### Unit 2 - Weeks 5 - 7
 * React
 * **Project 3** build single page application with React
 
-### Unit 3 - Weeks 8 + 9
+#### Unit 3 - Weeks 8 + 9
 * Intro to Node and NPM
 * Intro to HTTP, Rest and APIs
 * Express
 * MongoDB
 * **Project 2** - build a full-stack app with Node, MongoDB, and React
 
-### Unit 4 - Weeks 10 - 12
+#### Unit 4 - Weeks 10 - 12
 * Python/Django
 * PostgreSQL
 * **Project 4** Capstone project
@@ -88,7 +85,7 @@ The course is divided into 4 units lasting roughtly 3 weeks each. Each unit conc
 
 ### Weekly Schedule
 
-#### Normal Weeks
+#### Normal Weeks (Jared)
 
 Weekdays
 
@@ -98,14 +95,26 @@ Weekdays
 * **2:30-5:00**: Lesson/Lab
 * **5:00-6:00**: Study Hall/Code Challenge/Homework Introduction
 
-#### Project Weeks
+#### Project Weeks (Jared)
 
 Project weeks will be pretty much just time for you to work on your project.
-
 * There will be no scheduled lessons
 * We will also have presentations at the end of the week 🎉
 
-### How to Ask for Help?
+### Communicating with Your Instructors (Hou)
+- Typically, two instructors will be online each day to run the class. We'd have a Lead Instructor (Jennifer/Hou) lead the day's lessons together with an IA (Jerrica/Jared/Esin). 
+- The instructors are here for you and to help you succeed, but we can't be available to you you 24/7. There will be dedicated time for instructors to provide students with support outside of lessons. These are:
+
+- **Study Hall/Code Challenge: 5:00PM - 6:00PM weekdays**
+- **Office Hours w/IAs: see [Course Schedule](https://docs.google.com/spreadsheets/d/1ZURTV4VnWecQjLzChi3-6YDLpF7HD6laTuRJMvkXumk/edit#gid=906214899)**
+- **Lab Support**
+- **Project Support**
+
+These are times when instructors are available to help you with bugs, answer questions or provide advice. The goal of this program is to turn you in to a self-sufficient software engineer, so our expectation is that you try to resolve issues on your own as much as possible. We use the remaining time to prepare lessons, grade projects, etc.
+
+However, if you have any questions concerning SEI, your progress in the course, challenges you are facing, or any other non-technical concerns that you would like to discuss, you are welcome to Slack instructors to set up one-on-one meetings. If you reach out via Slack in the evening, the instructor will probably respond by the next day.
+
+### How to Ask for Help? (Jerrica)
 
 Asking for help is what students find hardest in SEI. It is also what ultimately determines whether or not students will be successful in this class.
 
@@ -128,7 +137,7 @@ How can we ask for help efficiently?
 > if you'd like to learn more about how to ask effective questions.
 
 ## Course Policies
-### Plagiarism
+### Plagiarism (Jennifer)
 General Assembly is not a traditional educational institution, but we share some things in common. We have a plagiarism policy in place to create a healthy classroom culture where students prioritize their learning above all other goals for the duration of the cohort. We create a space where it is 'safe to fail' since 'failure' is such an integral part of the learning process.
 
 * You can't ask external people to do your work
@@ -138,53 +147,53 @@ General Assembly is not a traditional educational institution, but we share some
 * Make sure you're googling parts of problems rather than the whole problem. The problem solving part of code is the hardest part - make sure you're doing that part too! These aren't research assignments!
 * Plagiarized submissions will not be graded and may lead to removal from the program.
 
-### Homework
+### Homework (Jared)
 * Each day you will be given a homework assignment that is due the next morning at 10 AM. 
 * You must complete 80% of these homeworks to graduate the class.
 * They are graded on a 👍 or 👎 basis -- either they are complete or not. Whether they are complete or not depends on the effort you put in. They don't have to be 100% correct, but you do need to show that you put time into getting the correct answer.
 
-### Professional Setting
-* Treat each other with respect, and like co-workers. You're all in this together!
+### Attendance (Jerrica)
+* The IA on duty will take attendance each morning and afternoon. 3 tardies will add up to 1 absence. Only 3 absences are permitted. If you are absent, please notify the instructors and watch the class recording.
 
 ## What Is an Immersive Course?
 
 Spend two minutes discussing some answers to the following question: **What does it mean to be in an "immersive" environment?**
 
-### There's no winning or losing.
+### There's no winning or losing. (Jennifer)
 
 * This is a non-competitive environment.
 * You get out what you put in.
 * Everyone enters and leaves at different levels. Try to compare you with you only.
 * Use your classmates' work as inspiration to improve your own!
 
-### Cooperation.
+### Cooperation. (Hou)
 
 * You'll be learning, eating, growing, failing, and succeeding **together** for the next 12 weeks.
 
-### Re-learning how to learn
+### Re-learning how to learn (Esin)
 
-* The most significant skill you will gain from this course is not proficiency in a particular web framework or programming language, but rather learning how to teach yourself
+* The **MOST** significant skill you will gain from this course is not proficiency in a particular web framework or programming language, but rather learning how to teach yourself
 * You will learn this in an environment that is specifically tailored to this goal, where there is heavy support, instruction designed to structure your self-learning process, and safety to 'fail'.
 * We will progressively "back off" over the course of the cohort, encouraging the development of your autonomy as a developer, allowing you to stand strong on your own.
 
-### You will be uncomfortable. Regularly.
+### You will be uncomfortable. Regularly. (Jared)
 
 * Don't be too hard on yourself.
 * You will probably feel somewhat lost on this week's topic, feel more comfortable with last week lessons, and notice that a few weeks ago looks easy.
 
-### Productive Struggle
+### Productive Struggle (Jerrica)
 
 * The pace of this course is designed to push you past your limits.
 * The brain is like a muscle; sometimes it gets sore.
 * Struggling with the material doesn't mean you aren't learning; on the contrary, it reflects sustained and meaningful engagement with the material.
 
-### Embrace failure.
+### Embrace failure. (Jennifer)
 
 * Here we learn by doing, and things don't always (and usually won't) go right the first time.
 * This is normal. Expect it.
 * Fail often and learn from it.
 
-### Nothing is Magic.
+### Nothing is Magic. (Jared)
 
 * "Magic is indistinguishable from any sufficiently advanced technology"
   _-Arthur C Clarke_
@@ -193,28 +202,28 @@ Spend two minutes discussing some answers to the following question: **What does
 
 > Nothing above is specific to coding, but is true of learning in general.
 
-### Balance.
+### Balance. (Esin)
 
 * This intensity means that we have to make room for balance.
 * Sleep, food, hydration, rest, and hygiene.
 
-### We will not give up on you.
+### We will not give up on you. (Hou)
 
 * Even when you might have given up on yourself!
 * None of the instructors are here just to collect a paycheck. We're passionate about web development, education, your interests, and your professional and personal growth.
 
-### Trust that our decisions are informed by solid experience.
+### Trust that our decisions are informed by solid experience. (Jerrica)
 
 * We have a large body of knowledge, experience, and expertise to draw on from the iterative nature of SEI; SIE has been through hundreds of iterations.
 * Each iteration of SEI has been driven in part by student feedback, and for that reason, we rely on your feedback. Please don't hesitate to provide us with feedback!
 
-### Gradual Release of Responsibility
+### Gradual Release of Responsibility (Hou)
 
 Being able to ask for help effectively will become increasingly crucial as the course progresses. During the first project, for example, we will be holding office hours throughout the dedicated project days. By the fourth project, however, all support will be conducted using Github issues. Between those two projects, instructors will be placing an increasing onus on the students to solve problems on their own with increasingly limited instructor support -- what we call a "gradual release of responsibility."
 
 While instructors love helping out, we've found that students become stronger developers by learning to solve their own problems. Your instructors won't be following you to your jobs so it's important to develop a sense of self-sufficiency while you're here.
 
-## Growth Mindset
+## Growth Mindset (Esin)
 
 [Growth Mindset](https://www.youtube.com/watch?v=-_oqghnxBmY_) -
 [Dr. Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)
@@ -227,7 +236,7 @@ This may be the most mentally challenging thing you've ever done - the first tim
 > [The Learning Myth: Why I'll Never Tell My Son He's Smart](https://www.khanacademy.org/talks-and-interviews/conversations-with-sal/a/the-learning-myth-why-ill-never-tell-my-son-hes-smart) -
 > A great read/watch when you have a few spare minutes.
 
-### The Emotional Cycle of Change
+### The Emotional Cycle of Change (Jennifer)
 
 ![Emotional Cycle of Change](https://s-media-cache-ak0.pinimg.com/736x/3c/f4/fa/3cf4faeb2078f4f4fbb9265444bde2e0.jpg)
 
@@ -242,6 +251,6 @@ The growth mindset here is understanding that even when something doesn't work, 
 
 Throughout the course of SEI many students say something along the lines of "I don't know how to do that." Many of you certainly will. If you do, however, just add "...yet" to the end of that sentence.
 
-## Classroom Constitution
+## Classroom Constitution (Hou)
 
 * Let's all collaborate, what are the behaviors we *do* want in our class? What are the ones we *don't* want?
