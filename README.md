@@ -102,8 +102,9 @@ Project weeks will be pretty much just time for you to work on your project.
 * We will also have presentations at the end of the week 🎉
 
 ### Communicating with Your Instructors (Hou)
-- Typically, two instructors will be online each day to run the class. We'd have a Lead Instructor (Jennifer/Hou) lead the day's lessons together with an IA (Jerrica/Jared/Esin). 
-- The instructors are here for you and to help you succeed, but we can't be available to you you 24/7. There will be dedicated time for instructors to provide students with support outside of lessons. These are:
+Typically, two instructors will be online each day to run the class. We'd have a Lead Instructor (Jennifer/Hou) lead the day's lessons together with an IA (Jerrica/Jared/Esin). If you run into a technical issue that is specific to your code during the lecture, please direct message the IA that's on-camera that day for help, instead of interrupting the lecture.
+
+The instructors are here for you and to help you succeed, but we can't be available to you you 24/7. There will be dedicated time for instructors to provide students with support outside of lessons. These are:
 
 - **Study Hall/Code Challenge: 5:00PM - 6:00PM weekdays**
 - **Office Hours w/IAs: see [Course Schedule](https://docs.google.com/spreadsheets/d/1ZURTV4VnWecQjLzChi3-6YDLpF7HD6laTuRJMvkXumk/edit#gid=906214899)**
