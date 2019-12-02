@@ -30,7 +30,8 @@ Say your:
 - Where you're located
 - What you were doing before this 
 - What brought you here to GA
-#### Activity: Two Truths and a Lie
+
+#### Activity: Two Truths and a Lie - first group
 
 ## Course Content Overview 
 GA's global team has built a baseline curriculum, which includes topics to cover and a suggested order. As a local campus, we have built on and modified this curriculum based on our own experiences as instructors and the unique features of the job market. We also iterate on this curriculum constantly so technologies and concepts change with each cohort.
@@ -80,6 +81,8 @@ The course is divided into 4 units lasting roughtly 3 weeks each. Each unit conc
 * Python/Django
 * PostgreSQL
 * **Project 4** Capstone project
+
+#### Activity: Two Truths and a Lie - second group
 
 ## Course Logistics
 
@@ -137,6 +140,8 @@ How can we ask for help efficiently?
 > [this lesson plan](https://git.generalassemb.ly/ga-wdi-lessons/effective_questions)
 > if you'd like to learn more about how to ask effective questions.
 
+#### Activity: Two Truths and a Lie - third group
+
 ## Course Policies
 ### Plagiarism (Jennifer)
 General Assembly is not a traditional educational institution, but we share some things in common. We have a plagiarism policy in place to create a healthy classroom culture where students prioritize their learning above all other goals for the duration of the cohort. We create a space where it is 'safe to fail' since 'failure' is such an integral part of the learning process.
@@ -155,6 +160,8 @@ General Assembly is not a traditional educational institution, but we share some
 
 ### Attendance (Jerrica)
 * The IA on duty will take attendance each morning and afternoon. 3 tardies will add up to 1 absence. Only 3 absences are permitted. If you are absent, please notify the instructors and watch the class recording.
+
+#### Activity: Two Truths and a Lie - fourth group
 
 ## What Is an Immersive Course?
 
