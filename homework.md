@@ -9,22 +9,17 @@ better than turning in nothing at all. We can't get you the help you need unless
 we see what you're working on. That said, **unexcused late homework will not be
 accepted**. If you have issues submitting homework please let us know.
 
-Grade updates will be sent out weekly, and please feel free to message the
-instructors about any specific assignment.
-
 **Each assignment will ask you to learn or research something that has
 explicitly not been covered in class.** Learning how to learn is fundamental to
 becoming a successful developer.
 
 ## Due Dates and Grading
 
-You will generally be assigned homework every day and homework is due the **following Monday by 10:00 am.**
+You will generally be assigned homework every day and homework is due the **following day by 10:00 am ET.**
 
-So if an exercise is assigned on Tuesday, it is due the following Monday
-before class starts at 10:00 am. If an exercise is assigned on Friday, it is due
-Monday before class starts at 10:00 am.
-
-That being said, doing the assignment as soon as it is assigned will be most beneficial. We just give you the grace period in case you need to go to office hours to ask questions.
+So if an exercise is assigned on Tuesday, it is due the next day on Wednesday
+before class starts at 10:00 am ET. If an exercise is assigned on Friday, it is due
+Monday before class starts at 10:00 am ET.
 
 Each assignment contains instructions on how to submit it. Generally, you will
 fork and clone the repository and make your submission with a pull request.
@@ -89,15 +84,5 @@ For example:
 ## The Submission Process
 
 All homework assignments will have their own Github repository with specific
-instructions on how to submit your assignment. Generally, you will be asked to
-follow this process:
-
-1. **Fork** the repository.
-1. Then, **clone** your fork to your computer.
-1. Complete your work inside it the repository.
-1. **Push** your completed work to your forked repository.
-1. Finally, make a **pull request** to the upstream repository (i.e. the
-   original repository).
-
-If you run in to errors or any hiccups with this process start by researching
-the issue. If you're still stuck after 20 minutes, ask an instructor for help!
+instructions on how to submit your assignment. If you run in to errors or any hiccups with this process 
+start by researching the issue. If you're still stuck after 20 minutes, ask an instructor for help!
