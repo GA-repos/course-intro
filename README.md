@@ -109,7 +109,7 @@ Typically, two instructors will be online each day to run the class. We'd have a
 
 The instructors are here for you and to help you succeed, but we can't be available to you you 24/7. There will be dedicated time for instructors to provide students with support outside of lessons. These are:
 
-- **Study Hall/Code Challenge: 5:00PM - 6:00PM weekdays**
+- **Study Hall: 5:00PM - 6:00PM most weekdays**
 - **Office Hours w/IAs: see [Course Schedule](https://docs.google.com/spreadsheets/d/1ZURTV4VnWecQjLzChi3-6YDLpF7HD6laTuRJMvkXumk/edit#gid=906214899)**
 - **Lab Support**
 - **Project Support**
