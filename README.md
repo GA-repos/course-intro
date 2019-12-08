@@ -68,18 +68,18 @@ The course is divided into 4 units lasting roughtly 3 weeks each. Each unit conc
 
 #### Unit 2 - Weeks 5 - 7
 * React
-* **Project 3** build single page application with React
+* **Project 2** build single page application with React
 
 #### Unit 3 - Weeks 8 + 9
 * Intro to Node and NPM
 * Intro to HTTP, Rest and APIs
 * Express
-* MongoDB
-* **Project 2** - build a full-stack app with Node, MongoDB, and React
+* MongoDB (Non-Relational Database)
+* **Project 3** - build a full-stack app with Node, MongoDB, and React
 
 #### Unit 4 - Weeks 10 - 12
 * Python/Django
-* PostgreSQL
+* PostgreSQL (Relational Database)
 * **Project 4** Capstone project
 
 #### Activity: Two Truths and a Lie - second group
