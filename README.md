@@ -215,6 +215,10 @@ Spend two minutes discussing some answers to the following question: **What does
 * This intensity means that we have to make room for balance.
 * Sleep, food, hydration, rest, and hygiene.
 
+![I was told there would be sleep](https://res.cloudinary.com/practicaldev/image/fetch/s--ehenNuS9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ken191h31mp562g66c2w.jpg)
+
+> Consider making a daily schedule for yourself to prioritize what's important to you - time spent with loved ones, working out, preparing healthy meals, etc. Find a balance between the hard work needed for this course and taking care of yourself.
+
 ### We will not give up on you. (Hou)
 
 * Even when you might have given up on yourself!
@@ -233,8 +237,10 @@ While instructors love helping out, we've found that students become stronger de
 
 ## Growth Mindset (Esin)
 
-[Growth Mindset](https://www.youtube.com/watch?v=-_oqghnxBmY_) -
+[Growth Mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU) -
 [Dr. Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)
+
+> How do you think GROWTH MINDSET could come into play for a bootcamp student? 
 
 This may be the most mentally challenging thing you've ever done - the first time you've been bad at something in a long time. You will fail and struggle at times, but that's important. We don't succeed despite challenges - we succeed because of challenges.
 
