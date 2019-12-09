@@ -270,3 +270,12 @@ Throughout the course of SEI many students say something along the lines of "I d
 
 * Let's all collaborate, what are the behaviors we *do* want in our class? What are the ones we *don't* want?
 * [Class Constitution Example](https://git.generalassemb.ly/seir-826/class-constitution)
+
+## Administrative Checks / Student Agreements
+- Update Slack
+  - Username should be your full name (first and last name)
+  - Profile image should be an image of you where we can clearly see your face
+- Update GitHub Enterprise
+  - Name should be your full name (first and last name)
+  - Profile image should be an image of you where we can clearly see your face
+- Review [Plagiarism rules](https://git.generalassemb.ly/seir-129/course-intro/blob/master/plagiarism.md)
