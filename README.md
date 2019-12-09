@@ -235,6 +235,8 @@ Being able to ask for help effectively will become increasingly crucial as the c
 
 While instructors love helping out, we've found that students become stronger developers by learning to solve their own problems. Your instructors won't be following you to your jobs so it's important to develop a sense of self-sufficiency while you're here.
 
+#### Activity: Two Truths and a Lie - fifth group
+
 ## Growth Mindset (Esin)
 
 [Growth Mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU) -
