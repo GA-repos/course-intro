@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to SEI!!! 🎉
 
-## Learning Objectives (Jennifer)
+## Learning Objectives (Esin)
 
 * Get to know each other
 * Map out the topics and technologies of web development, and identify which we will and will not cover
@@ -10,7 +10,7 @@
 
 ## Welcome & Today's Schedule
 
-### Today's Schedule (Jerrica):
+### Today's Schedule (Esin):
 * 10:00 - 11:30 - Welcome to SEIR 129 & Introductions/Icebreaker
 * 11:30 - 11:40 - Break
 * 11:40 - 12:00 - Course Content
@@ -22,7 +22,7 @@
 * 2:30 - 5:30 - Installfest/Command Line Interface
 * 5:30 - 6:00 - Instructor AMA
 
-### Introductions & Icebreaker (Jerrica)
+### Introductions & Icebreaker (Esin)
 Welcome to your first day of General Assembly's Software Engineering Immersive! Let's all introduce ourselves! 
 Say your:
 - Name
@@ -57,8 +57,6 @@ We cover these technologies / topics because they are foundational to web develo
 
 The course is divided into 4 units lasting roughtly 3 weeks each. Each unit concludes with a 3-5 day project.
 
-### Units/Projects
-
 #### Unit 1 - Weeks 1 - 4
 
 * Intro to the Web and Development (HTML/CSS and Git)
@@ -88,7 +86,7 @@ The course is divided into 4 units lasting roughtly 3 weeks each. Each unit conc
 
 ### Weekly Schedule
 
-#### Normal Weeks (Jared)
+#### Normal Weeks (Jennifer)
 
 Weekdays
 
@@ -98,19 +96,19 @@ Weekdays
 * **2:30-5:00**: Lesson/Lab
 * **5:00-6:00**: Study Hall/Code Challenge/Homework Introduction
 
-#### Project Weeks (Jared)
+#### Project Weeks (Jennifer)
 
 Project weeks will be pretty much just time for you to work on your project.
 * There will be no scheduled lessons
 * We will also have presentations at the end of the week 🎉
 
-### Communicating with Your Instructors (Hou)
-Typically, two instructors will be online each day to run the class. We'd have a Lead Instructor (Jennifer/Hou) lead the day's lessons together with an IA (Jerrica/Jared/Esin). If you run into a technical issue that is specific to your code during the lecture, please direct message the IA that's on-camera that day for help, instead of interrupting the lecture.
+### Communicating with Your Instructors (Jennifer)
+Typically, two instructors will be online each day to run the class. We'd have a Lead Instructor (Jennifer/Hou) lead the day's lessons together with an IA (Carlos/Esin). If you run into a technical issue that is specific to your code during the lecture, please direct message the IA that's on-camera that day for help, instead of interrupting the lecture.
 
-The instructors are here for you and to help you succeed, but we can't be available to you you 24/7. There will be dedicated time for instructors to provide students with support outside of lessons. These are:
+The instructors are here for you and to help you succeed, but we can't be available to you 24/7. There will be dedicated time for instructors to provide students with support outside of lessons. These are:
 
 - **Study Hall: 5:00PM - 6:00PM most weekdays**
-- **Office Hours w/IAs: see [Course Schedule](https://docs.google.com/spreadsheets/d/1ZURTV4VnWecQjLzChi3-6YDLpF7HD6laTuRJMvkXumk/edit#gid=906214899)**
+- **Office Hours: see [Course Schedule](https://docs.google.com/spreadsheets/d/1ZURTV4VnWecQjLzChi3-6YDLpF7HD6laTuRJMvkXumk/edit#gid=906214899)**
 - **Lab Support**
 - **Project Support**
 
@@ -118,7 +116,7 @@ These are times when instructors are available to help you with bugs, answer que
 
 However, if you have any questions concerning SEI, your progress in the course, challenges you are facing, or any other non-technical concerns that you would like to discuss, you are welcome to Slack instructors to set up one-on-one meetings. If you reach out via Slack in the evening, the instructor will probably respond by the next day.
 
-### How to Ask for Help? (Jerrica)
+### How to Ask for Help? (Jennifer)
 
 Asking for help is what students find hardest in SEI. It is also what ultimately determines whether or not students will be successful in this class.
 
@@ -143,7 +141,7 @@ How can we ask for help efficiently?
 #### Activity: Two Truths and a Lie - third group
 
 ## Course Policies
-### Plagiarism (Jennifer)
+### Plagiarism (Carlos)
 General Assembly is not a traditional educational institution, but we share some things in common. We have a plagiarism policy in place to create a healthy classroom culture where students prioritize their learning above all other goals for the duration of the cohort. We create a space where it is 'safe to fail' since 'failure' is such an integral part of the learning process.
 
 * You can't ask external people to do your work
@@ -153,12 +151,12 @@ General Assembly is not a traditional educational institution, but we share some
 * Make sure you're googling parts of problems rather than the whole problem. The problem solving part of code is the hardest part - make sure you're doing that part too! These aren't research assignments!
 * Plagiarized submissions will not be graded and may lead to removal from the program.
 
-### Homework (Jared)
+### Homework (Carlos)
 * Each day you will be given a homework assignment that is due the next morning at 10 AM. 
 * You must complete 80% of these homeworks to graduate the class.
 * They are graded on a 👍 or 👎 basis -- either they are complete or not. Whether they are complete or not depends on the effort you put in. They don't have to be 100% correct, but you do need to show that you put time into getting the correct answer.
 
-### Attendance (Jerrica)
+### Attendance (Carlos)
 * The IA on duty will take attendance each morning and afternoon. 3 tardies will add up to 1 absence. Only 3 absences are permitted. If you are absent, please notify the instructors and watch the class recording.
 
 #### Activity: Two Truths and a Lie - fourth group
@@ -177,6 +175,7 @@ Spend two minutes discussing some answers to the following question: **What does
 ### Cooperation. (Hou)
 
 * You'll be learning, eating, growing, failing, and succeeding **together** for the next 12 weeks.
+* Teamwork will be paramount to your success as an SEIR student
 
 ### Re-learning how to learn (Esin)
 
@@ -184,12 +183,12 @@ Spend two minutes discussing some answers to the following question: **What does
 * You will learn this in an environment that is specifically tailored to this goal, where there is heavy support, instruction designed to structure your self-learning process, and safety to 'fail'.
 * We will progressively "back off" over the course of the cohort, encouraging the development of your autonomy as a developer, allowing you to stand strong on your own.
 
-### You will be uncomfortable. Regularly. (Jared)
+### You will be uncomfortable. Regularly. (Carlos)
 
 * Don't be too hard on yourself.
 * You will probably feel somewhat lost on this week's topic, feel more comfortable with last week lessons, and notice that a few weeks ago looks easy.
 
-### Productive Struggle (Jerrica)
+### Productive Struggle (Carlos)
 
 * The pace of this course is designed to push you past your limits.
 * The brain is like a muscle; sometimes it gets sore.
@@ -201,7 +200,7 @@ Spend two minutes discussing some answers to the following question: **What does
 * This is normal. Expect it.
 * Fail often and learn from it.
 
-### Nothing is Magic. (Jared)
+### Nothing is Magic. (Carlos)
 
 * "Magic is indistinguishable from any sufficiently advanced technology"
   _-Arthur C Clarke_
@@ -219,12 +218,12 @@ Spend two minutes discussing some answers to the following question: **What does
 
 > Consider making a daily schedule for yourself to prioritize what's important to you - time spent with loved ones, working out, preparing healthy meals, etc. Find a balance between the hard work needed for this course and taking care of yourself.
 
-### We will not give up on you. (Hou)
+### We will not give up on you. (Jennifer)
 
 * Even when you might have given up on yourself!
 * None of the instructors are here just to collect a paycheck. We're passionate about web development, education, your interests, and your professional and personal growth.
 
-### Trust that our decisions are informed by solid experience. (Jerrica)
+### Trust that our decisions are informed by solid experience. (Carlos)
 
 * We have a large body of knowledge, experience, and expertise to draw on from the iterative nature of SEI; SIE has been through hundreds of iterations.
 * Each iteration of SEI has been driven in part by student feedback, and for that reason, we rely on your feedback. Please don't hesitate to provide us with feedback!
