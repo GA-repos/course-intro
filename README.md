@@ -157,7 +157,9 @@ General Assembly is not a traditional educational institution, but we share some
 * They are graded on a 👍 or 👎 basis -- either they are complete or not. Whether they are complete or not depends on the effort you put in. They don't have to be 100% correct, but you do need to show that you put time into getting the correct answer.
 
 ### Attendance (Carlos)
-* The IA on duty will take attendance each morning and afternoon. 3 tardies will add up to 1 absence. Only 3 absences are permitted. If you are absent, please notify the instructors and watch the class recording.
+* The IA on duty will take attendance each morning and afternoon when class starts/resumes. You must be on the Zoom call with your camera turned on to be counted present. 
+* 3 tardies add up to 1 absence. Only 3 absences total are permitted. If you are absent, please notify the instructors and watch the class recording.
+* If you know you will be late or absent ahead of time, please reach out to the IA on duty and let them know. 
 
 #### Activity: Two Truths and a Lie - fourth group
 
