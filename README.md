@@ -55,7 +55,7 @@ We cover these technologies / topics because they are foundational to web develo
 
 ### Course Sequence (Hou)
 
-The course is divided into 4 units lasting roughtly 3 weeks each. Each unit concludes with a 3-5 day project.
+The course is divided into 4 units lasting roughtly 3 weeks each. Each unit concludes with a 5 day project.
 
 #### Unit 1 - Weeks 1 - 4
 
@@ -177,7 +177,7 @@ Spend two minutes discussing some answers to the following question: **What does
 ### Cooperation. (Hou)
 
 * You'll be learning, eating, growing, failing, and succeeding **together** for the next 12 weeks.
-* Teamwork will be paramount to your success as an SEIR student
+* Teamwork will be paramount to your success as an SEIR student and beyond. Programming is a teamwork-driven profession. You will learn more from each other than from the instructors!
 
 ### Re-learning how to learn (Esin)
 
@@ -232,7 +232,7 @@ Spend two minutes discussing some answers to the following question: **What does
 
 ### Gradual Release of Responsibility (Hou)
 
-Being able to ask for help effectively will become increasingly crucial as the course progresses. During the first project, for example, we will be holding office hours throughout the dedicated project days. By the fourth project, however, all support will be conducted using Github issues. Between those two projects, instructors will be placing an increasing onus on the students to solve problems on their own with increasingly limited instructor support -- what we call a "gradual release of responsibility."
+Being able to ask for help effectively will become increasingly crucial as the course progresses. During the first project, for example, we will be holding office hours throughout the dedicated project days. By the fourth project, however, all support will be conducted using a limited number of tokens per team. Between those two projects, instructors will be placing an increasing onus on the students to solve problems on their own with increasingly limited instructor support -- what we call a "gradual release of responsibility."
 
 While instructors love helping out, we've found that students become stronger developers by learning to solve their own problems. Your instructors won't be following you to your jobs so it's important to develop a sense of self-sufficiency while you're here.
 
@@ -272,7 +272,7 @@ Throughout the course of SEI many students say something along the lines of "I d
 ## Classroom Constitution (Hou)
 
 * Let's all collaborate, what are the behaviors we *do* want in our class? What are the ones we *don't* want?
-* [Class Constitution Example](https://git.generalassemb.ly/seir-826/class-constitution)
+* [Class Constitution Example](https://git.generalassemb.ly/seir-129/class-constitution)
 
 ## Administrative Checks / Student Agreements
 - Update Slack
