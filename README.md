@@ -31,7 +31,7 @@ Say your:
 - What you were doing before this 
 - What brought you here to GA
 
-#### Activity: Two Truths and a Lie - first group
+#### Activity: Two Truths and a Lie - first group (instructors)
 
 ## Course Content Overview 
 GA's global team has built a baseline curriculum, which includes topics to cover and a suggested order. As a local campus, we have built on and modified this curriculum based on our own experiences as instructors and the unique features of the job market. We also iterate on this curriculum constantly so technologies and concepts change with each cohort.
@@ -268,6 +268,8 @@ The growth mindset here is understanding that even when something doesn't work, 
 * Google is your best friend
 
 Throughout the course of SEI many students say something along the lines of "I don't know how to do that." Many of you certainly will. If you do, however, just add "...yet" to the end of that sentence.
+
+#### Activity: Two Truths and a Lie - sixth group
 
 ## Classroom Constitution (Hou)
 
