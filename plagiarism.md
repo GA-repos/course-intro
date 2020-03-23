@@ -45,7 +45,7 @@ One caveat to the above rules is that there might be cases when so much of your 
 It depends on a number of factors: Was it intentional? How substantial is the scope of the plagiarized work? Can it be easily rectified?
 
 * In the "best case" scenario, you can resubmit the work with no penalty.
-* In the "worst case" scenario, you will be removed from WDI.
+* In the "worst case" scenario, you will be removed from SEI.
 
 Obviously there's a lot that happens in between those two extremes. Each instance of suspected plagiarism will be evaluated on a case-by-case basis in consultation with the Instructor Manager.
 
