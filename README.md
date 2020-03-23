@@ -283,4 +283,4 @@ Throughout the course of SEI many students say something along the lines of "I d
 - Update GitHub Enterprise
   - Name should be your full name (first and last name)
   - Profile image should be an image of you where we can clearly see your face
-- Review [Plagiarism rules](https://git.generalassemb.ly/seir-129/course-intro/blob/master/plagiarism.md)
+- Review [Plagiarism rules](https://git.generalassemb.ly/seir-323/course-intro/blob/master/plagiarism.md)
