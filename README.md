@@ -181,6 +181,11 @@ Spend two minutes discussing some answers to the following question: **What does
 * You'll be learning, eating, growing, failing, and succeeding **together** for the next 12 weeks.
 * Teamwork will be paramount to your success as an SEIR student and beyond. Programming is a teamwork-driven profession. You will learn more from each other than from the instructors!
 
+### Trust the Process - The Cycle of Imitation, Repetition, & Innovation (Hou)
+* ~ 30% of your understanding of the material will come from coding along with the instructor during lectures (imitation). This is the point where most students fall into the panic zone. 
+* ~ 40% will come from reinforcing those concepts through the homework and labs (repetition)
+* ~ The rest of the 30% will come from building your projects (innovation)
+
 ### Re-learning how to learn (Esin)
 
 * The **MOST** significant skill you will gain from this course is not proficiency in a particular web framework or programming language, but rather learning how to teach yourself
