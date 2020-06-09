@@ -11,7 +11,7 @@
 ## Welcome & Today's Schedule
 
 ### Today's Schedule (Esin):
-* 10:00 - 11:30 - Welcome to SEIR 129 & Introductions/Icebreaker
+* 10:00 - 11:30 - Welcome to SEIR & Introductions/Icebreaker
 * 11:30 - 11:40 - Break
 * 11:40 - 12:00 - Course Content
 * 12:00 - 12:20 - Course Logistics
@@ -80,6 +80,8 @@ The course is divided into 4 units lasting roughtly 3 weeks each. Each unit conc
 * PostgreSQL (Relational Database)
 * **Project 4** Capstone project
 
+We'll also cover Data Structures & Algorithms throughout the units.
+
 #### Activity: Two Truths and a Lie - second group
 
 ## Course Logistics
@@ -108,17 +110,17 @@ Typically, two instructors will be online each day to run the class. We'd have a
 The instructors are here for you and to help you succeed, but we can't be available to you 24/7. There will be dedicated time for instructors to provide students with support outside of lessons. These are:
 
 - **Study Hall: 5:00PM - 6:00PM most weekdays**
-- **Office Hours: see [Course Schedule](https://docs.google.com/spreadsheets/d/1Rhx-W6R_sxbVUkejBf361XTxXvSAwQJA2NH8nJyfpPc/edit?usp=sharing)**
+- **Office Hours: see [Course Schedule](https://docs.google.com/spreadsheets/d/1OghUPW2KubPacCGgCOeLbcFTpss1ELBl7VJ-CrKAS-M/edit?usp=sharing)**
 - **Lab Support**
 - **Project Support**
 
 These are times when instructors are available to help you with bugs, answer questions or provide advice. The goal of this program is to turn you in to a self-sufficient software engineer, so our expectation is that you try to resolve issues on your own as much as possible. We use the remaining time to prepare lessons, grade projects, etc.
 
-However, if you have any questions concerning SEI, your progress in the course, challenges you are facing, or any other non-technical concerns that you would like to discuss, you are welcome to Slack instructors to set up one-on-one meetings. If you reach out via Slack in the evening, the instructor will probably respond by the next day.
+However, if you have any questions concerning SEIR, your progress in the course, challenges you are facing, or any other non-technical concerns that you would like to discuss, you are welcome to Slack instructors to set up one-on-one meetings. If you reach out via Slack in the evening, the instructor will probably respond by the next day.
 
 ### How to Ask for Help? (Jennifer)
 
-Asking for help is what students find hardest in SEI. It is also what ultimately determines whether or not students will be successful in this class.
+Asking for help is what students find hardest in SEIR. It is also what ultimately determines whether or not students will be successful in this class.
 
 * Without fail, the students who do not ask for help do the poorest in the class.
 * **Knowing how to ask for help and where to look for answers** are two of the biggest skills you can gain from this class and will be incredibly valuable as you prepare to join the professional workforce.
@@ -163,7 +165,7 @@ General Assembly is not a traditional educational institution, but we share some
 
 #### Activity: Two Truths and a Lie - fourth group
 
-## What Is an Immersive Course?
+## What Is an Immersive Course? (Jennifer)
 
 Spend two minutes discussing some answers to the following question: **What does it mean to be in an "immersive" environment?**
 
@@ -189,6 +191,7 @@ Spend two minutes discussing some answers to the following question: **What does
 
 * Don't be too hard on yourself.
 * You will probably feel somewhat lost on this week's topic, feel more comfortable with last week lessons, and notice that a few weeks ago looks easy.
+* The first couple days would mostly be review, but we're going to ramp up the rigor and difficulty of the course slowly but surely! 
 
 ### Productive Struggle (Carlos)
 
@@ -283,4 +286,4 @@ Throughout the course of SEI many students say something along the lines of "I d
 - Update GitHub Enterprise
   - Name should be your full name (first and last name)
   - Profile image should be an image of you where we can clearly see your face
-- Review [Plagiarism rules](https://git.generalassemb.ly/seir-323/course-intro/blob/master/plagiarism.md)
+- Review [Plagiarism rules](https://git.generalassemb.ly/seir-622/course-intro/blob/master/plagiarism.md)
