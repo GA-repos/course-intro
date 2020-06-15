@@ -176,7 +176,7 @@ Spend two minutes discussing some answers to the following question: **What does
 * Everyone enters and leaves at different levels. Try to compare you with you only.
 * Use your classmates' work as inspiration to improve your own!
 
-### Cooperation. (Hou)
+### Cooperation & Teamwork. (Hou)
 
 * You'll be learning, eating, growing, failing, and succeeding **together** for the next 12 weeks.
 * Teamwork will be paramount to your success as an SEIR student and beyond. Programming is a teamwork-driven profession. You will learn more from each other than from the instructors!
@@ -185,6 +185,9 @@ Spend two minutes discussing some answers to the following question: **What does
 * ~ 30% of your understanding of the material will come from coding along with the instructor during lectures (imitation). This is the point where most students fall into the panic zone. 
 * ~ 40% will come from reinforcing those concepts through the homework and labs (repetition)
 * ~ The rest of the 30% will come from building your projects (innovation)
+
+### Be prepared to work hard. Very hard. 
+* The title says it all. Outside of regular class hours, you will spend many hours on homeworks and projects. The most successful students in the past are ones who invest long hours into the course. The instructors are your biggest cheerleaders and will provide support but we cannot do the work for you.
 
 ### Re-learning how to learn (Esin)
 
