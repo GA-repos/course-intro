@@ -238,7 +238,7 @@ Spend two minutes discussing some answers to the following question: **What does
 
 ### Trust that our decisions are informed by solid experience. (Carlos)
 
-* We have a large body of knowledge, experience, and expertise to draw on from the iterative nature of SEI; SIE has been through hundreds of iterations.
+* We have a large body of knowledge, experience, and expertise to draw on from the iterative nature of SEI; SEI has been through hundreds of iterations.
 * Each iteration of SEI has been driven in part by student feedback, and for that reason, we rely on your feedback. Please don't hesitate to provide us with feedback!
 
 ### Gradual Release of Responsibility (Hou)
