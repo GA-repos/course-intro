@@ -53,7 +53,7 @@ A non-exhaustive list of technologies we cover...
 
 We cover these technologies / topics because they are foundational to web development, and learning the underlying concepts of how they work prepares you to learn and work in any web development technologies.
 
-### Course Sequence (Hou)
+### Course Sequence (Carlos)
 
 The course is divided into 4 units lasting roughtly 3 weeks each. Each unit concludes with a 5 day project.
 
