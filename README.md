@@ -36,7 +36,7 @@ Say your:
 ## Course Content Overview 
 GA's global team has built a baseline curriculum, which includes topics to cover and a suggested order. As a local campus, we have built on and modified this curriculum based on our own experiences as instructors and the unique features of the job market. We also iterate on this curriculum constantly so technologies and concepts change with each cohort.
 
-### Course Content (Hou)
+### Course Content (Carlos)
 
 > What are some technologies and languages you know of that are involved in web development (e.g., HTML, CSS, Python, Databases).
 
@@ -61,7 +61,7 @@ The course is divided into 4 units lasting roughtly 3 weeks each. Each unit conc
 
 * Intro to the Web and Development (HTML/CSS and Git)
 * JavaScript
-* Intro to HTTP, Rest and APIs
+* Intro to HTTP and APIs
 * **Project 1** - Build a front-end application with HTML/CSS/JS
 
 #### Unit 2 - Weeks 5 - 7
@@ -143,7 +143,7 @@ How can we ask for help efficiently?
 #### Activity: Two Truths and a Lie - third group
 
 ## Course Policies
-### Plagiarism (Carlos)
+### Plagiarism (Tabitha)
 General Assembly is not a traditional educational institution, but we share some things in common. We have a plagiarism policy in place to create a healthy classroom culture where students prioritize their learning above all other goals for the duration of the cohort. We create a space where it is 'safe to fail' since 'failure' is such an integral part of the learning process.
 
 * You can't ask external people to do your work
@@ -153,12 +153,12 @@ General Assembly is not a traditional educational institution, but we share some
 * Make sure you're googling parts of problems rather than the whole problem. The problem solving part of code is the hardest part - make sure you're doing that part too! These aren't research assignments!
 * Plagiarized submissions will not be graded and may lead to removal from the program.
 
-### Homework (Carlos)
+### Homework (Tabitha)
 * Each day you will be given a homework assignment that is due the next morning at 10 AM. 
 * You must complete 80% of these homeworks to graduate the class.
 * They are graded on a 👍 or 👎 basis -- either they are complete or not. Whether they are complete or not depends on the effort you put in. They don't have to be 100% correct, but you do need to show that you put time into getting the correct answer.
 
-### Attendance (Carlos)
+### Attendance (Tabitha)
 * The IA on duty will take attendance each morning and afternoon when class starts/resumes. You must be on the Zoom call with your camera turned on to be counted present. 
 * 3 tardies add up to 1 absence. Only 3 absences total are permitted. If you are absent, please notify the instructors and watch the class recording.
 * If you know you will be late or absent ahead of time, please reach out to the IA on duty and let them know. 
@@ -176,12 +176,12 @@ Spend two minutes discussing some answers to the following question: **What does
 * Everyone enters and leaves at different levels. Try to compare you with you only.
 * Use your classmates' work as inspiration to improve your own!
 
-### Cooperation & Teamwork. (Hou)
+### Cooperation & Teamwork. (Carlos)
 
 * You'll be learning, eating, growing, failing, and succeeding **together** for the next 12 weeks.
 * Teamwork will be paramount to your success as an SEIR student and beyond. Programming is a teamwork-driven profession. You will learn more from each other than from the instructors!
 
-### Trust the Process - The Cycle of Imitation, Repetition, & Innovation (Hou)
+### Trust the Process - The Cycle of Imitation, Repetition, & Innovation (Carlos)
 * ~ 30% of your understanding of the material will come from coding along with the instructor during lectures (imitation). This is the point where most students fall into the panic zone. 
 * ~ 40% will come from reinforcing those concepts through the homework and labs (repetition)
 * ~ The rest of the 30% will come from building your projects (innovation)
@@ -195,13 +195,13 @@ Spend two minutes discussing some answers to the following question: **What does
 * You will learn this in an environment that is specifically tailored to this goal, where there is heavy support, instruction designed to structure your self-learning process, and safety to 'fail'.
 * We will progressively "back off" over the course of the cohort, encouraging the development of your autonomy as a developer, allowing you to stand strong on your own.
 
-### You will be uncomfortable. Regularly. (Carlos)
+### You will be uncomfortable. Regularly. (Tabitha)
 
 * Don't be too hard on yourself.
 * You will probably feel somewhat lost on this week's topic, feel more comfortable with last week lessons, and notice that a few weeks ago looks easy.
 * The first couple days would mostly be review, but we're going to ramp up the rigor and difficulty of the course slowly but surely! 
 
-### Productive Struggle (Carlos)
+### Productive Struggle (Tabitha)
 
 * The pace of this course is designed to push you past your limits.
 * The brain is like a muscle; sometimes it gets sore.
@@ -213,7 +213,7 @@ Spend two minutes discussing some answers to the following question: **What does
 * This is normal. Expect it.
 * Fail often and learn from it.
 
-### Nothing is Magic. (Carlos)
+### Nothing is Magic. (Tabitha)
 
 * "Magic is indistinguishable from any sufficiently advanced technology"
   _-Arthur C Clarke_
@@ -236,12 +236,12 @@ Spend two minutes discussing some answers to the following question: **What does
 * Even when you might have given up on yourself!
 * None of the instructors are here just to collect a paycheck. We're passionate about web development, education, your interests, and your professional and personal growth.
 
-### Trust that our decisions are informed by solid experience. (Carlos)
+### Trust that our decisions are informed by solid experience. (Jennifer)
 
 * We have a large body of knowledge, experience, and expertise to draw on from the iterative nature of SEI; SEI has been through hundreds of iterations.
 * Each iteration of SEI has been driven in part by student feedback, and for that reason, we rely on your feedback. Please don't hesitate to provide us with feedback!
 
-### Gradual Release of Responsibility (Hou)
+### Gradual Release of Responsibility (Carlos)
 
 Being able to ask for help effectively will become increasingly crucial as the course progresses. During the first project, for example, we will be holding office hours throughout the dedicated project days. By the fourth project, however, all support will be conducted using a limited number of tokens per team. Between those two projects, instructors will be placing an increasing onus on the students to solve problems on their own with increasingly limited instructor support -- what we call a "gradual release of responsibility."
 
@@ -282,7 +282,7 @@ Throughout the course of SEI many students say something along the lines of "I d
 
 #### Activity: Two Truths and a Lie - sixth group
 
-## Classroom Constitution (Hou)
+## Classroom Constitution (Carlos)
 
 * Let's all collaborate, what are the behaviors we *do* want in our class? What are the ones we *don't* want?
 * [Class Constitution Example](https://git.generalassemb.ly/seir-826/class-constitution)
