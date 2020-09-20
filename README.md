@@ -286,7 +286,7 @@ Throughout the course of SEI many students say something along the lines of "I d
 ## Classroom Constitution (Carlos)
 
 * Let's all collaborate, what are the behaviors we *do* want in our class? What are the ones we *don't* want?
-* [Class Constitution Example](https://git.generalassemb.ly/seir-826/class-constitution)
+* [Class Constitution Example](https://git.generalassemb.ly/seir-622/class-constitution)
 
 ## Administrative Checks / Student Agreements
 - Update Slack
