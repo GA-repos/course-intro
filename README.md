@@ -251,8 +251,9 @@ While instructors love helping out, we've found that students become stronger de
 
 ## Growth Mindset (Esin)
 
-[Growth Mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU) -
 [Dr. Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)
+
+[Developing growth mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
 
 > How do you think GROWTH MINDSET could come into play for a bootcamp student? 
 
