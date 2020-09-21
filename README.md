@@ -110,7 +110,7 @@ Typically, two instructors will be online each day to run the class. We'd have a
 The instructors are here for you and to help you succeed, but we can't be available to you 24/7. There will be dedicated time for instructors to provide students with support outside of lessons. These are:
 
 - **Study Hall: 5:00PM - 6:00PM most weekdays**
-- **Office Hours: see [Course Schedule](https://docs.google.com/spreadsheets/d/1OghUPW2KubPacCGgCOeLbcFTpss1ELBl7VJ-CrKAS-M/edit?usp=sharing)**
+- **Office Hours: see [Course Schedule](https://docs.google.com/spreadsheets/d/113dBKVl6m78jcXWHM6E9wCMLGVREGWSBcMyflNrICeg/edit#gid=906214899)**
 - **Lab Support**
 - **Project Support**
 
