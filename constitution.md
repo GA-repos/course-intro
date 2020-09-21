@@ -25,7 +25,7 @@
 
 
 
-## Dont's
+## Don'ts
 
 - Don't give up!
 - Don't beat yourself up too badly when you can't get it after the first couple of times
