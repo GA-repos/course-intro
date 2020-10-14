@@ -6,7 +6,7 @@
 - Share your wins!
 - Have a supportive environment
 - Share your losses/vulnerabilities
-- Lean on each other/ use each other as resources
+- Lean on each other/ use each other as resources ➕
 - Keep up with the homework assignments
 - Push ourselves! Growth mindset :muscle:
 - Have fun / enjoy the process / savor the thrill
@@ -22,8 +22,9 @@
 - Step away from your computer during breaks!
 - Be confident about what you've learned.
 - Do go outside whenever you can, walk a dog!
-
-
+- Do make contingencies when you plan, don't run out of time. 
+- Do be okay with not knowing. Google is our friend. 
+- Do make sure you can explain your problem before asking for help. Unless you need help explaining your problem, which is okay too!!!
 
 ## Don'ts
 
@@ -36,7 +37,7 @@
 - Don't compare yourself to others!
 - Don't procrastinate! You'll run out of time and may fall behind!
 - Don't cheat/plagiarize. Submit your own work or cite resources
-- Don't talk about touchy subjects. No politics, religion, controversial subjects. Thanksgiving table rules!
+- Don't talk about touchy subjects. No politics, religion, controversial subjects (e.g., cilantro, poptarts). Thanksgiving table rules!
 - Don't ignore or waste the resources that are available to you! Utilize the instructors and each other!
 - Don't forget to take care of yourself/self-care
 - Don't undermine your own experience.
