@@ -11,16 +11,16 @@
 ## Welcome & Today's Schedule
 
 ### Today's Schedule ( TODO   ):
-* 10:00 - 11:30 - Welcome to SEIR & Introductions/Icebreaker
-* 11:30 - 11:40 - Break
-* 11:40 - 12:00 - Course Content
-* 12:00 - 12:20 - Course Logistics
-* 12:20 - 12:40 - Course Policies
-* 12:40 - 1:10 - What is an Immersive Course?
-* 1:10 - 1:30 - Classroom Constitution
-* 1:30 - 2:30 - Lunch
-* 2:30 - 5:30 - Installfest/Command Line Interface
-* 5:30 - 6:00 - Instructor AMA
+* 9:00 - 10:30 - Welcome to SEIR & Introductions/Icebreaker
+* 10:30 - 10:40 - Break
+* 10:40 - 11:00 - Course Content
+* 11:00 - 11:20 - Course Logistics
+* 11:20 - 11:40 - Course Policies
+* 11:40 - 12:10 - What is an Immersive Course?
+* 12:10 - 12:30 - Classroom Constitution
+* 12:30 - 1:30 - Lunch
+* 1:30 - 4:30 - Installfest/Command Line Interface
+* 4:30 - 5:00 - Instructor AMA
 
 ### Introductions & Icebreaker ( TODO )
 Welcome to your first day of General Assembly's Software Engineering Immersive! Let's all introduce ourselves! 
