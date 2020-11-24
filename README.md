@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to SEI!!! 🎉
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to SEI 11/30 - 3/6 🎉
 
 # Lead Instructors:
 - Jeremy Taubman
@@ -11,6 +11,8 @@
 # Teaching Assistant
 - Paresh Sharma
 
+
+
 ## Learning Objectives (TODO)
 
 * Get to know each other
@@ -18,6 +20,8 @@
 * List the core expectations of instructors and students
 * Determine guiding principles for our class culture
 * Review classroom and Zoom ettiquite and create a classroom constitution
+
+
 
 ## Welcome & Today's Schedule
 
@@ -33,6 +37,9 @@
 * 1:30 - 4:30 - Installfest/Command Line Interface
 * 4:30 - 5:00 - Instructor AMA
 
+
+
+
 ### Introductions & Icebreaker ( TODO )
 Welcome to your first day of General Assembly's Software Engineering Immersive! Let's all introduce ourselves! 
 Say your:
@@ -42,10 +49,14 @@ Say your:
 - What brought you here to GA
 - Something interesting!
 
+
 **Icebreaker:** TODO
+
 
 ## Course Content Overview 
 GA's global team has built a baseline curriculum, which includes topics to cover and a suggested order. As a local campus, we have built on and modified this curriculum based on our own experiences as instructors and the unique features of the job market. We also iterate on this curriculum constantly so technologies and concepts change with each cohort.
+
+
 
 ### Course Content (TODO)
 
@@ -63,6 +74,8 @@ A non-exhaustive list of technologies we cover...
 
 We cover these technologies / topics because they are foundational to web development, and learning the underlying concepts of how they work prepares you to learn and work in any web development technologies.
 
+
+
 ### Course Sequence (TODO)
 
 The course is divided into 4 units lasting roughtly 3 weeks each. Each unit concludes with a 5 day project.
@@ -74,9 +87,11 @@ The course is divided into 4 units lasting roughtly 3 weeks each. Each unit conc
 * Intro to HTTP and APIs
 * **Project 1** - Build a front-end application with HTML/CSS/JS
 
+
 #### Unit 2 - Weeks 5 - 7
 * React
 * **Project 2** build single page application with React
+
 
 #### Unit 3 - Weeks 8 + 9
 * Intro to Node and NPM
@@ -85,14 +100,18 @@ The course is divided into 4 units lasting roughtly 3 weeks each. Each unit conc
 * MongoDB (Database)
 * **Project 3** - build a full-stack app with Node, DB, and React
 
+
 #### Unit 4 - Weeks 10 - 12
 * Python/Django
 * PostgreSQL 
 * **Project 4** Capstone project
 
+
 We'll also cover Data Structures & Algorithms throughout the units.
 
+
 #### Activity: Two Truths and a Lie - second group
+
 
 ## Course Logistics
 
@@ -108,11 +127,13 @@ Weekdays
 * **1:30-4:00**: Lesson/Lab
 * **4:00-5:00**: Study Hall/Code Challenge/Homework Introduction
 
+
 #### Project Weeks (TODO)
 
 Project weeks will be pretty much just time for you to work on your project.
 * There will be no scheduled lessons
 * We will also have presentations at the end of the week 🎉
+
 
 ### Communicating with Your Instructors (TODO)
 Typically, two instructors will be online each day to run the class. The lead Instructors (Jeremy/Will) lead the day's lessons together with an IA (Tabitha/Elektra) helping to run the class. 
@@ -126,9 +147,15 @@ The instructors are here for you and to help you succeed, but we can't be availa
 - **Lab Support**
 - **Project Support**
 
-These are times when instructors are available to help you with bugs, answer questions or provide advice. The goal of this program is to turn you in to a self-sufficient software engineer, so our expectation is that you try to resolve issues on your own as much as possible. We use the remaining time to prepare lessons, grade projects, etc.
+These are times when instructors are available to help you with bugs, answer questions or provide advice. 
 
-However, if you have any questions concerning SEIR, your progress in the course, challenges you are facing, or any other non-technical concerns that you would like to discuss, you are welcome to Slack instructors to set up one-on-one meetings. If you reach out via Slack in the evening, the instructor will probably respond by the next day.
+The goal of this program is to turn you in to a self-sufficient software engineer, so our expectation is that you try to resolve issues on your own as much as possible. We use the remaining time to prepare lessons, grade projects, etc.
+
+However, if you have any questions concerning SEIR, your progress in the course, challenges you are facing, or any other non-technical concerns that you would like to discuss, you are welcome to Slack instructors to set up one-on-one meetings. 
+
+If you reach out via Slack in the evening, the instructor will probably respond by the next day.
+
+
 
 ### How to Ask for Help? (TODO)
 
