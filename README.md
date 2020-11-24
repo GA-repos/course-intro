@@ -1,12 +1,23 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to SEI!!! 🎉
 
+# Lead Instructors:
+- Jeremy Taubman
+- Will Sutton
+
+# Instructional Assistants
+- Tabitha Perry
+- Elektra Babian 
+
+# Teaching Assistant
+- Paresh Sharma
+
 ## Learning Objectives (TODO)
 
 * Get to know each other
 * Map out the topics and technologies of web development, and identify which we will and will not cover
 * List the core expectations of instructors and students
 * Determine guiding principles for our class culture
-* List the main "Dos" and "Don'ts" for the class and the space and create a classroom constitution
+* Review classroom and Zoom ettiquite and create a classroom constitution
 
 ## Welcome & Today's Schedule
 
