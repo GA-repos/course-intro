@@ -1,4 +1,17 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to SEI!!! 🎉
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to SEI 11/30 - 3/6 🎉
+
+# Lead Instructors:
+- Jeremy Taubman
+- Will Sutton
+
+# Instructional Assistants
+- Tabitha Perry
+- Elektra Babian 
+
+# Teaching Assistant
+- Paresh Sharma
+
+
 
 ## Learning Objectives (TODO)
 
@@ -6,21 +19,26 @@
 * Map out the topics and technologies of web development, and identify which we will and will not cover
 * List the core expectations of instructors and students
 * Determine guiding principles for our class culture
-* List the main "Dos" and "Don'ts" for the class and the space and create a classroom constitution
+* Review classroom and Zoom ettiquite and create a classroom constitution
+* Install necessary software and tools
+
 
 ## Welcome & Today's Schedule
 
 ### Today's Schedule ( TODO   ):
-* 10:00 - 11:30 - Welcome to SEIR & Introductions/Icebreaker
-* 11:30 - 11:40 - Break
-* 11:40 - 12:00 - Course Content
-* 12:00 - 12:20 - Course Logistics
-* 12:20 - 12:40 - Course Policies
-* 12:40 - 1:10 - What is an Immersive Course?
-* 1:10 - 1:30 - Classroom Constitution
-* 1:30 - 2:30 - Lunch
-* 2:30 - 5:30 - Installfest/Command Line Interface
-* 5:30 - 6:00 - Instructor AMA
+* 9:00 - 10:30 - Welcome to SEIR & Introductions/Icebreaker
+* 10:30 - 10:40 - Break
+* 10:40 - 11:00 - Course Content
+* 11:00 - 11:20 - Course Logistics
+* 11:20 - 11:40 - Course Policies
+* 11:40 - 12:10 - What is an Immersive Course?
+* 12:10 - 12:30 - Classroom Constitution
+* 12:30 - 1:30 - Lunch
+* 1:30 - 4:30 - Installfest/Command Line Interface
+* 4:30 - 5:00 - Instructor AMA
+
+
+
 
 ### Introductions & Icebreaker ( TODO )
 Welcome to your first day of General Assembly's Software Engineering Immersive! Let's all introduce ourselves! 
@@ -29,11 +47,16 @@ Say your:
 - Where you're located
 - What you were doing before this 
 - What brought you here to GA
+- Something interesting!
+
 
 **Icebreaker:** TODO
 
+
 ## Course Content Overview 
 GA's global team has built a baseline curriculum, which includes topics to cover and a suggested order. As a local campus, we have built on and modified this curriculum based on our own experiences as instructors and the unique features of the job market. We also iterate on this curriculum constantly so technologies and concepts change with each cohort.
+
+
 
 ### Course Content (TODO)
 
@@ -51,6 +74,8 @@ A non-exhaustive list of technologies we cover...
 
 We cover these technologies / topics because they are foundational to web development, and learning the underlying concepts of how they work prepares you to learn and work in any web development technologies.
 
+
+
 ### Course Sequence (TODO)
 
 The course is divided into 4 units lasting roughtly 3 weeks each. Each unit concludes with a 5 day project.
@@ -62,9 +87,11 @@ The course is divided into 4 units lasting roughtly 3 weeks each. Each unit conc
 * Intro to HTTP and APIs
 * **Project 1** - Build a front-end application with HTML/CSS/JS
 
+
 #### Unit 2 - Weeks 5 - 7
 * React
 * **Project 2** build single page application with React
+
 
 #### Unit 3 - Weeks 8 + 9
 * Intro to Node and NPM
@@ -73,14 +100,19 @@ The course is divided into 4 units lasting roughtly 3 weeks each. Each unit conc
 * MongoDB (Database)
 * **Project 3** - build a full-stack app with Node, DB, and React
 
+
 #### Unit 4 - Weeks 10 - 12
 * Python/Django
 * PostgreSQL 
 * **Project 4** Capstone project
 
+
 We'll also cover Data Structures & Algorithms throughout the units.
 
+
 #### Activity: Two Truths and a Lie - second group
+
+
 
 ## Course Logistics
 
@@ -96,14 +128,18 @@ Weekdays
 * **1:30-4:00**: Lesson/Lab
 * **4:00-5:00**: Study Hall/Code Challenge/Homework Introduction
 
+
 #### Project Weeks (TODO)
 
 Project weeks will be pretty much just time for you to work on your project.
-* There will be no scheduled lessons
+* There will be no scheduled lessons, but we will require regular check-ins and daily stand up meetings with your team
 * We will also have presentations at the end of the week 🎉
 
+
 ### Communicating with Your Instructors (TODO)
-Typically, two instructors will be online each day to run the class. We'd have a Lead Instructor (Jeremy/Will) lead the day's lessons together with an IA (Tabitha/Elektra). If you run into a technical issue that is specific to your code during the lecture, please direct message the IA that's on-camera that day for help, instead of interrupting the lecture.
+Typically, two instructors will be online each day to run the class. The lead Instructors (Jeremy/Will) lead the day's lessons together with an IA (Tabitha/Elektra) helping to run the class. 
+
+If you run into a technical issue that is specific to your code during the lecture, please direct message the IA that's on-camera that day for help, instead of interrupting the lecture.
 
 The instructors are here for you and to help you succeed, but we can't be available to you 24/7. There will be dedicated time for instructors to provide students with support outside of lessons. These are:
 
@@ -112,9 +148,15 @@ The instructors are here for you and to help you succeed, but we can't be availa
 - **Lab Support**
 - **Project Support**
 
-These are times when instructors are available to help you with bugs, answer questions or provide advice. The goal of this program is to turn you in to a self-sufficient software engineer, so our expectation is that you try to resolve issues on your own as much as possible. We use the remaining time to prepare lessons, grade projects, etc.
+These are times when instructors are available to help you with bugs, answer questions or provide advice. 
 
-However, if you have any questions concerning SEIR, your progress in the course, challenges you are facing, or any other non-technical concerns that you would like to discuss, you are welcome to Slack instructors to set up one-on-one meetings. If you reach out via Slack in the evening, the instructor will probably respond by the next day.
+The goal of this program is to turn you in to a self-sufficient software engineer, so our expectation is that you try to resolve issues on your own as much as possible. We use the remaining time to prepare lessons, grade projects, etc.
+
+However, if you have any questions concerning SEIR, your progress in the course, challenges you are facing, or any other non-technical concerns that you would like to discuss, you are welcome to Slack instructors to set up one-on-one meetings. 
+
+If you reach out via Slack in the evening, the instructor will probably respond by the next day.
+
+
 
 ### How to Ask for Help? (TODO)
 
@@ -152,9 +194,10 @@ General Assembly is not a traditional educational institution, but we share some
 * Plagiarized submissions will not be graded and may lead to removal from the program.
 
 ### Homework (TODO)
-* Each day you will be given a homework assignment that is due the next morning at 10 AM. 
+* Each day you will be given a homework assignment that is due the next morning at 9 AM. 
 * You must complete 80% of these homeworks to graduate the class.
 * They are graded on a 👍 or 👎 basis -- either they are complete or not. Whether they are complete or not depends on the effort you put in. They don't have to be 100% correct, but you do need to show that you put time into getting the correct answer.
+* You will be allowed to resubmit homeworks if you can not finish them that night. They are due One Week from their original date.
 
 ### Attendance (TODO)
 * The IA on duty will take attendance each morning and afternoon when class starts/resumes. You must be on the Zoom call with your camera turned on to be counted present. 
@@ -178,14 +221,21 @@ Spend two minutes discussing some answers to the following question: **What does
 
 * You'll be learning, eating, growing, failing, and succeeding **together** for the next 12 weeks.
 * Teamwork will be paramount to your success as an SEIR student and beyond. Programming is a teamwork-driven profession. You will learn more from each other than from the instructors!
+* Do Not Isolate Yourself During This Time! Every part of the process - from learning the basics to building a resume to filling your portfolio with interesting projects to finding out about new job oppurtunities will be improved by building up a community and team here. 
 
 ### Trust the Process - The Cycle of Imitation, Repetition, & Innovation (TODO)
 * ~ 30% of your understanding of the material will come from coding along with the instructor during lectures (imitation). This is the point where most students fall into the panic zone. 
 * ~ 40% will come from reinforcing those concepts through the homework and labs (repetition)
 * ~ The rest of the 30% will come from building your projects (innovation)
 
+* You are not expected to master any language at the completion of this course. But you will have the skills to learn whatever languages and frameworks you are interested in working with as you enter the professional world.
+* Learning coding is the same as playing the piano or painting with oils. Things may not come easy at first, but with time and practice you will begin to familiar with the materials
+
+
+
 ### Be prepared to work hard. Very hard. 
 * The title says it all. Outside of regular class hours, you will spend many hours on homeworks and projects. The most successful students in the past are ones who invest long hours into the course. The instructors are your biggest cheerleaders and will provide support but we cannot do the work for you.
+
 
 ### Re-learning how to learn (TODO)
 
@@ -217,6 +267,8 @@ Spend two minutes discussing some answers to the following question: **What does
   _-Arthur C Clarke_
 * Humans have reached a considerable degree of technological sophistication, there are so many places where we can begin to discover how a technology works, how the technology developed, how the technology is put together, what problem does the technology solve (or what does it make it easier to do?) etc.
 * 'The Programmer's Mindset' will come with time, but it begins with the question, "How is this working?"
+
+
 
 > Nothing above is specific to coding, but is true of learning in general.
 
