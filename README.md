@@ -20,7 +20,7 @@
 * List the core expectations of instructors and students
 * Determine guiding principles for our class culture
 * Review classroom and Zoom ettiquite and create a classroom constitution
-
+* Install necessary software and tools
 
 
 ## Welcome & Today's Schedule
@@ -113,6 +113,7 @@ We'll also cover Data Structures & Algorithms throughout the units.
 #### Activity: Two Truths and a Lie - second group
 
 
+
 ## Course Logistics
 
 ### Weekly Schedule
@@ -131,7 +132,7 @@ Weekdays
 #### Project Weeks (TODO)
 
 Project weeks will be pretty much just time for you to work on your project.
-* There will be no scheduled lessons
+* There will be no scheduled lessons, but we will require regular check-ins and daily stand up meetings with your team
 * We will also have presentations at the end of the week 🎉
 
 
@@ -193,9 +194,10 @@ General Assembly is not a traditional educational institution, but we share some
 * Plagiarized submissions will not be graded and may lead to removal from the program.
 
 ### Homework (TODO)
-* Each day you will be given a homework assignment that is due the next morning at 10 AM. 
+* Each day you will be given a homework assignment that is due the next morning at 9 AM. 
 * You must complete 80% of these homeworks to graduate the class.
 * They are graded on a 👍 or 👎 basis -- either they are complete or not. Whether they are complete or not depends on the effort you put in. They don't have to be 100% correct, but you do need to show that you put time into getting the correct answer.
+* You will be allowed to resubmit homeworks if you can not finish them that night. They are due One Week from their original date.
 
 ### Attendance (TODO)
 * The IA on duty will take attendance each morning and afternoon when class starts/resumes. You must be on the Zoom call with your camera turned on to be counted present. 
@@ -219,14 +221,21 @@ Spend two minutes discussing some answers to the following question: **What does
 
 * You'll be learning, eating, growing, failing, and succeeding **together** for the next 12 weeks.
 * Teamwork will be paramount to your success as an SEIR student and beyond. Programming is a teamwork-driven profession. You will learn more from each other than from the instructors!
+* Do Not Isolate Yourself During This Time! Every part of the process - from learning the basics to building a resume to filling your portfolio with interesting projects to finding out about new job oppurtunities will be improved by building up a community and team here. 
 
 ### Trust the Process - The Cycle of Imitation, Repetition, & Innovation (TODO)
 * ~ 30% of your understanding of the material will come from coding along with the instructor during lectures (imitation). This is the point where most students fall into the panic zone. 
 * ~ 40% will come from reinforcing those concepts through the homework and labs (repetition)
 * ~ The rest of the 30% will come from building your projects (innovation)
 
+* You are not expected to master any language at the completion of this course. But you will have the skills to learn whatever languages and frameworks you are interested in working with as you enter the professional world.
+* Learning coding is the same as playing the piano or painting with oils. Things may not come easy at first, but with time and practice you will begin to familiar with the materials
+
+
+
 ### Be prepared to work hard. Very hard. 
 * The title says it all. Outside of regular class hours, you will spend many hours on homeworks and projects. The most successful students in the past are ones who invest long hours into the course. The instructors are your biggest cheerleaders and will provide support but we cannot do the work for you.
+
 
 ### Re-learning how to learn (TODO)
 
@@ -258,6 +267,8 @@ Spend two minutes discussing some answers to the following question: **What does
   _-Arthur C Clarke_
 * Humans have reached a considerable degree of technological sophistication, there are so many places where we can begin to discover how a technology works, how the technology developed, how the technology is put together, what problem does the technology solve (or what does it make it easier to do?) etc.
 * 'The Programmer's Mindset' will come with time, but it begins with the question, "How is this working?"
+
+
 
 > Nothing above is specific to coding, but is true of learning in general.
 
