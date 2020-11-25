@@ -23,6 +23,15 @@
 * Install necessary software and tools
 
 
+### Zoom Ettiquite:
+
+* We will keep the Zoom chat muted to avoid unnecessary background noise, but you will be able to unmute yourselves to speak, ask, and answer questions through the day 
+* Students are expected to be in the zoom chat with their cameras on throughout the class
+* Please keep distractions (pets, children, virtual backgrounds) to a minimum. We are cultivating a professional environment and the way you carry yourself in the class will reflect how you will carry yourself in the workplace
+* You will not be penalized if you need to turn your camera off for a minute to take care of something - we are all human!
+* We will be using Slack to post and answer questions, not the Zoom chat. We will discuss what each channel (asking for serious help, answering classroom questions, posting memes...) is for shortly
+
+
 ## Welcome & Today's Schedule
 
 ### Today's Schedule ( TODO   ):
