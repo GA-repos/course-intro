@@ -47,24 +47,8 @@
 * 4:30 - 5:00 - Instructor AMA
 
 
-
-
-### Introductions & Icebreaker ( TODO )
-Welcome to your first day of General Assembly's Software Engineering Immersive! Let's all introduce ourselves! 
-Say your:
-- Name
-- Where you're located
-- What you were doing before this 
-- What brought you here to GA
-- Something interesting!
-
-
-**Icebreaker:** TODO
-
-
 ## Course Content Overview 
 GA's global team has built a baseline curriculum, which includes topics to cover and a suggested order. As a local campus, we have built on and modified this curriculum based on our own experiences as instructors and the unique features of the job market. We also iterate on this curriculum constantly so technologies and concepts change with each cohort.
-
 
 
 ### Course Content (TODO)
@@ -84,8 +68,32 @@ A non-exhaustive list of technologies we cover...
 We cover these technologies / topics because they are foundational to web development, and learning the underlying concepts of how they work prepares you to learn and work in any web development technologies.
 
 
+### Introductions & Icebreaker ( Tabitha )
+Welcome to your first day of General Assembly's Software Engineering Immersive! Let's all introduce ourselves! 
+Say your:
+- Name
+- Where you're located
+- What you were doing before this 
+- What brought you here to GA
+- Pronouns
 
-### Course Sequence (TODO)
+**Icebreaker:** Two Truths and a Lie!
+
+### Break: 10 minutes
+
+Take this time to get water, make adjustments and to:
+
+ - Check your group number in Slack
+ - In Slack Copy and paste this:
+ ```/polly "Will Sutton" "plays guitar" "plays soccer" "is Santa Claus" ```
+ - Take 10 minutes to brainstorm your ideas + try out Polly in the #ec-seir-11302020-partytime slack channel
+
+
+
+
+#### Activity: Two Truths and a Lie - first group
+
+### Course Sequence (Elektra)
 
 The course is divided into 4 units lasting roughtly 3 weeks each. Each unit concludes with a 5 day project.
 
@@ -127,7 +135,7 @@ We'll also cover Data Structures & Algorithms throughout the units.
 
 ### Weekly Schedule
 
-#### Normal Weeks (TODO)
+#### Normal Weeks
 
 Weekdays
 
@@ -138,14 +146,14 @@ Weekdays
 * **4:00-5:00**: Study Hall/Code Challenge/Homework Introduction
 
 
-#### Project Weeks (TODO)
+#### Project Weeks
 
 Project weeks will be pretty much just time for you to work on your project.
 * There will be no scheduled lessons, but we will require regular check-ins and daily stand up meetings with your team
 * We will also have presentations at the end of the week 🎉
 
 
-### Communicating with Your Instructors (TODO)
+### Communicating with Your Instructors (Will)
 Typically, two instructors will be online each day to run the class. The lead Instructors (Jeremy/Will) lead the day's lessons together with an IA (Tabitha/Elektra) helping to run the class. 
 
 If you run into a technical issue that is specific to your code during the lecture, please direct message the IA that's on-camera that day for help, instead of interrupting the lecture.
@@ -167,7 +175,7 @@ If you reach out via Slack in the evening, the instructor will probably respond 
 
 
 
-### How to Ask for Help? (TODO)
+### How to Ask for Help? (Will)
 
 Asking for help is what students find hardest in SEIR. It is also what ultimately determines whether or not students will be successful in this class.
 
@@ -191,8 +199,8 @@ How can we ask for help efficiently?
 
 #### Activity: Two Truths and a Lie - third group
 
-## Course Policies
-### Plagiarism (TODO)
+## Course Policies (Tabitha)
+### Plagiarism 
 General Assembly is not a traditional educational institution, but we share some things in common. We have a plagiarism policy in place to create a healthy classroom culture where students prioritize their learning above all other goals for the duration of the cohort. We create a space where it is 'safe to fail' since 'failure' is such an integral part of the learning process.
 
 * You can't ask external people to do your work
@@ -202,7 +210,7 @@ General Assembly is not a traditional educational institution, but we share some
 * Make sure you're googling parts of problems rather than the whole problem. The problem solving part of code is the hardest part - make sure you're doing that part too! These aren't research assignments!
 * Plagiarized submissions will not be graded and may lead to removal from the program.
 
-### Homework (TODO)
+### Homework
 * Each day you will be given a homework assignment that is due the next morning at 9 AM. 
 * You must complete 80% of these homeworks to graduate the class.
 * They are graded on a 👍 or 👎 basis -- either they are complete or not. Whether they are complete or not depends on the effort you put in. They don't have to be 100% correct, but you do need to show that you put time into getting the correct answer.
@@ -215,24 +223,26 @@ General Assembly is not a traditional educational institution, but we share some
 
 #### Activity: Two Truths and a Lie - fourth group
 
-## What Is an Immersive Course? (TODO)
+## What Is an Immersive Course? (All)
 
 Spend two minutes discussing some answers to the following question: **What does it mean to be in an "immersive" environment?**
 
-### There's no winning or losing. (TODO)
+**Slack Thread!**
+
+### There's no winning or losing. 
 
 * This is a non-competitive environment.
 * You get out what you put in.
 * Everyone enters and leaves at different levels. Try to compare you with you only.
 * Use your classmates' work as inspiration to improve your own!
 
-### Cooperation & Teamwork. (TODO)
+### Cooperation & Teamwork. 
 
 * You'll be learning, eating, growing, failing, and succeeding **together** for the next 12 weeks.
 * Teamwork will be paramount to your success as an SEIR student and beyond. Programming is a teamwork-driven profession. You will learn more from each other than from the instructors!
 * Do Not Isolate Yourself During This Time! Every part of the process - from learning the basics to building a resume to filling your portfolio with interesting projects to finding out about new job oppurtunities will be improved by building up a community and team here. 
 
-### Trust the Process - The Cycle of Imitation, Repetition, & Innovation (TODO)
+### Trust the Process - The Cycle of Imitation, Repetition, & Innovation
 * ~ 30% of your understanding of the material will come from coding along with the instructor during lectures (imitation). This is the point where most students fall into the panic zone. 
 * ~ 40% will come from reinforcing those concepts through the homework and labs (repetition)
 * ~ The rest of the 30% will come from building your projects (innovation)
@@ -246,31 +256,31 @@ Spend two minutes discussing some answers to the following question: **What does
 * The title says it all. Outside of regular class hours, you will spend many hours on homeworks and projects. The most successful students in the past are ones who invest long hours into the course. The instructors are your biggest cheerleaders and will provide support but we cannot do the work for you.
 
 
-### Re-learning how to learn (TODO)
+### Re-learning how to learn 
 
 * The **MOST** significant skill you will gain from this course is not proficiency in a particular web framework or programming language, but rather learning how to teach yourself
 * You will learn this in an environment that is specifically tailored to this goal, where there is heavy support, instruction designed to structure your self-learning process, and safety to 'fail'.
 * We will progressively "back off" over the course of the cohort, encouraging the development of your autonomy as a developer, allowing you to stand strong on your own.
 
-### You will be uncomfortable. Regularly. (TODO)
+### You will be uncomfortable. Regularly.
 
 * Don't be too hard on yourself.
 * You will probably feel somewhat lost on this week's topic, feel more comfortable with last week lessons, and notice that a few weeks ago looks easy.
 * The first couple days would mostly be review, but we're going to ramp up the rigor and difficulty of the course slowly but surely! 
 
-### Productive Struggle (TODO)
+### Productive Struggle 
 
 * The pace of this course is designed to push you past your limits.
 * The brain is like a muscle; sometimes it gets sore.
 * Struggling with the material doesn't mean you aren't learning; on the contrary, it reflects sustained and meaningful engagement with the material.
 
-### Embrace failure. (TODO)
+### Embrace failure. 
 
 * Here we learn by doing, and things don't always (and usually won't) go right the first time.
 * This is normal. Expect it.
 * Fail often and learn from it.
 
-### Nothing is Magic. (TODO)
+### Nothing is Magic.
 
 * "Magic is indistinguishable from any sufficiently advanced technology"
   _-Arthur C Clarke_
@@ -281,7 +291,7 @@ Spend two minutes discussing some answers to the following question: **What does
 
 > Nothing above is specific to coding, but is true of learning in general.
 
-### Balance. (TODO)
+### Balance.
 
 * This intensity means that we have to make room for balance.
 * Sleep, food, hydration, rest, and hygiene.
@@ -290,17 +300,17 @@ Spend two minutes discussing some answers to the following question: **What does
 
 > Consider making a daily schedule for yourself to prioritize what's important to you - time spent with loved ones, working out, preparing healthy meals, etc. Find a balance between the hard work needed for this course and taking care of yourself.
 
-### We will not give up on you. (TODO)
+### We will not give up on you.
 
 * Even when you might have given up on yourself!
 * None of the instructors are here just to collect a paycheck. We're passionate about web development, education, your interests, and your professional and personal growth.
 
-### Trust that our decisions are informed by solid experience. (TODO)
+### Trust that our decisions are informed by solid experience. 
 
 * We have a large body of knowledge, experience, and expertise to draw on from the iterative nature of SEI; SEI has been through hundreds of iterations.
 * Each iteration of SEI has been driven in part by student feedback, and for that reason, we rely on your feedback. Please don't hesitate to provide us with feedback!
 
-### Gradual Release of Responsibility (TODO)
+### Gradual Release of Responsibility 
 
 Being able to ask for help effectively will become increasingly crucial as the course progresses. During the first project, for example, we will be holding office hours throughout the dedicated project days. By the fourth project, however, all support will be conducted using a limited number of tokens per team. Between those two projects, instructors will be placing an increasing onus on the students to solve problems on their own with increasingly limited instructor support -- what we call a "gradual release of responsibility."
 
@@ -310,39 +320,22 @@ While instructors love helping out, we've found that students become stronger de
 
 ## Growth Mindset (TODO)
 
-[Dr. Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)
-
-[Developing growth mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ)
-
 > How do you think GROWTH MINDSET could come into play for a bootcamp student? 
 
 This may be the most mentally challenging thing you've ever done - the first time you've been bad at something in a long time. You will fail and struggle at times, but that's important. We don't succeed despite challenges - we succeed because of challenges.
 
 * Unfortunately, this can hurt. Just like exercise can make you sore and tired, so should learning. Try to enjoy the burn knowing it is making you better.
 * We anticipate that you will run into hardships. When you do, that's when it is time to really challenge yourself and buckle down. Don't quit! Embrace the fact that the challenge will make you a better coder. Endure the struggle to grow and develop your mind.
-* A great way to track your progress and growth is by keeping a [coding journal](https://www.makeuseof.com/tag/become-better-coder-keeping-programming-journal/).
 
-> [The Learning Myth: Why I'll Never Tell My Son He's Smart](https://www.khanacademy.org/talks-and-interviews/conversations-with-sal/a/the-learning-myth-why-ill-never-tell-my-son-hes-smart) -
-> A great read/watch when you have a few spare minutes.
-
-### The Emotional Cycle of Change (TODO)
 
 ![Emotional Cycle of Change](https://s-media-cache-ak0.pinimg.com/736x/3c/f4/fa/3cf4faeb2078f4f4fbb9265444bde2e0.jpg)
 
 Programming is a mindset. It's about confidence and being open to failure. It's about knowing when to climb from the bottom of the cycle and being able to say, "Eh, I'm going to try this thing, even though I don't really understand it. AND I'm not going to get attached to it in case it doesn't work and I have to erase all my code and try something completely different."
 
-The growth mindset here is understanding that even when something doesn't work, it will still make you a better coder! We want this to be challenging for you because...
-
-* Just memorizing stuff won't help you. Learning HOW to code will.
-* You can't BS your way through code.
-* The fundamental standard of programming: It either works, or it doesn't. No amount of sweet-talking will make it work.
-* Google is your best friend
-
-Throughout the course of SEI many students say something along the lines of "I don't know how to do that." Many of you certainly will. If you do, however, just add "...yet" to the end of that sentence.
 
 #### Activity: Two Truths and a Lie - sixth group
 
-## Classroom Constitution (TODO)
+## Classroom Constitution
 
 * Let's all collaborate, what are the behaviors we *do* want in our class? What are the ones we *don't* want?
 * [Class Constitution Example](https://git.generalassemb.ly/seir-622/class-constitution)
