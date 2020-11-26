@@ -13,7 +13,7 @@
 
 
 
-## Learning Objectives (TODO)
+## Learning Objectives (Jeremy)
 
 * Get to know each other
 * Map out the topics and technologies of web development, and identify which we will and will not cover
@@ -34,7 +34,7 @@
 
 ## Welcome & Today's Schedule
 
-### Today's Schedule ( TODO   ):
+### Today's Schedule:
 * 9:00 - 10:30 - Welcome to SEIR & Introductions/Icebreaker
 * 10:30 - 10:40 - Break
 * 10:40 - 11:00 - Course Content
@@ -51,7 +51,7 @@
 GA's global team has built a baseline curriculum, which includes topics to cover and a suggested order. As a local campus, we have built on and modified this curriculum based on our own experiences as instructors and the unique features of the job market. We also iterate on this curriculum constantly so technologies and concepts change with each cohort.
 
 
-### Course Content (TODO)
+### Course Content
 
 > What are some technologies and languages you know of that are involved in web development (e.g., HTML, CSS, Python, Databases).
 
@@ -216,7 +216,7 @@ General Assembly is not a traditional educational institution, but we share some
 * They are graded on a 👍 or 👎 basis -- either they are complete or not. Whether they are complete or not depends on the effort you put in. They don't have to be 100% correct, but you do need to show that you put time into getting the correct answer.
 * You will be allowed to resubmit homeworks if you can not finish them that night. They are due One Week from their original date.
 
-### Attendance (TODO)
+### Attendance 
 * The IA on duty will take attendance each morning and afternoon when class starts/resumes. You must be on the Zoom call with your camera turned on to be counted present. 
 * 3 tardies add up to 1 absence. Only 3 absences total are permitted. If you are absent, please notify the instructors and watch the class recording.
 * If you know you will be late or absent ahead of time, please reach out to the IA on duty and let them know. 
@@ -318,7 +318,7 @@ While instructors love helping out, we've found that students become stronger de
 
 #### Activity: Two Truths and a Lie - fifth group
 
-## Growth Mindset (TODO)
+## Growth Mindset
 
 > How do you think GROWTH MINDSET could come into play for a bootcamp student? 
 
