@@ -194,7 +194,7 @@ How can we ask for help efficiently?
     1. Finally, ask an instructor
 
 > Check out
-> [this lesson plan](https://git.generalassemb.ly/ga-wdi-lessons/effective_questions)
+> [this lesson plan](https://git.generalassemb.ly/SEIR-1130/effective_questions)
 > if you'd like to learn more about how to ask effective questions.
 
 #### Activity: Two Truths and a Lie - third group
