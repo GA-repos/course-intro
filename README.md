@@ -1,19 +1,14 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to SEI 11/30 - 3/6 🎉
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to SEIR-Flex 3/23 - 9/18 🎉
 
 # Lead Instructors:
-- Jeremy Taubman
+- Billie Heidelberg
 - Will Sutton
 
 # Instructional Assistants
-- Tabitha Perry
-- Elektra Babian 
+- Jurgen Stevens
+- Paresh Sharma 
 
-# Teaching Assistant
-- Paresh Sharma
-
-
-
-## Learning Objectives (Jeremy)
+## Learning Objectives
 
 * Get to know each other
 * Map out the topics and technologies of web development, and identify which we will and will not cover
@@ -35,16 +30,11 @@
 ## Welcome & Today's Schedule
 
 ### Today's Schedule:
-* 9:00 - 10:30 - Welcome to SEIR & Introductions/Icebreaker
-* 10:30 - 10:40 - Break
-* 10:40 - 11:00 - Course Content
-* 11:00 - 11:20 - Course Logistics
-* 11:20 - 11:40 - Course Policies
-* 11:40 - 12:10 - What is an Immersive Course?
-* 12:10 - 12:30 - Classroom Constitution
-* 12:30 - 1:30 - Lunch
-* 1:30 - 4:30 - Installfest/Command Line Interface
-* 4:30 - 5:00 - Instructor AMA
+* 5:30 - 6:15  - Welcome to SEIR & Whole Team Intro
+* 6:15 - 6:45  - Course Content / Logistics / Policies
+* 6:45 - 7:00  - Breather
+* 7:00 - 9:45 -  Installfest/Command Line Interface
+
 
 
 ## Course Content Overview 
@@ -68,36 +58,19 @@ A non-exhaustive list of technologies we cover...
 We cover these technologies / topics because they are foundational to web development, and learning the underlying concepts of how they work prepares you to learn and work in any web development technologies.
 
 
-### Introductions & Icebreaker ( Tabitha )
+### Introductions & Icebreaker
 Welcome to your first day of General Assembly's Software Engineering Immersive! Let's all introduce ourselves! 
 Say your:
 - Name
 - Where you're located
 - What you were doing before this 
 - What brought you here to GA
-- Pronouns
 
-**Icebreaker:** Two Truths and a Lie!
-
-### Break: 10 minutes
-
-Take this time to get water, make adjustments and to:
-
- - Check your group number in Slack
- - In Slack Copy and paste this:
- ```/polly "Will Sutton" "plays guitar" "plays soccer" "is Santa Claus" ```
- - Take 10 minutes to brainstorm your ideas + try out Polly in the #ec-seir-11302020-partytime slack channel
-
-
-
-
-#### Activity: Two Truths and a Lie - first group
-
-### Course Sequence (Elektra)
+### Course Sequence
 
 The course is divided into 4 units lasting roughtly 3 weeks each. Each unit concludes with a 5 day project.
 
-#### Unit 1 - Weeks 1 - 4
+#### Unit 1 - Weeks 1 - 10
 
 * Intro to the Web and Development (HTML/CSS and Git)
 * JavaScript
@@ -105,20 +78,21 @@ The course is divided into 4 units lasting roughtly 3 weeks each. Each unit conc
 * **Project 1** - Build a front-end application with HTML/CSS/JS
 
 
-#### Unit 2 - Weeks 5 - 7
-* React
-* **Project 2** build single page application with React
-
-
-#### Unit 3 - Weeks 8 + 9
+#### Unit 2 - Weeks 11 - 17
 * Intro to Node and NPM
 * Intro to HTTP, Rest and APIs
 * Express
 * MongoDB (Database)
-* **Project 3** - build a full-stack app with Node, DB, and React
+* **Project 2** - build a full-stack app with Node, DB, and 
 
 
-#### Unit 4 - Weeks 10 - 12
+#### Unit 3 - Weeks 18 - 24
+React
+* React
+* **Project 3** build single page application with React
+
+
+#### Unit 4 - Weeks 25 - 30
 * Python/Django
 * PostgreSQL 
 * **Project 4** Capstone project
@@ -127,23 +101,33 @@ The course is divided into 4 units lasting roughtly 3 weeks each. Each unit conc
 We'll also cover Data Structures & Algorithms throughout the units.
 
 
-#### Activity: Two Truths and a Lie - second group
-
-
-
 ## Course Logistics
+
+For all times we'll refer to Central Time Zone (CST) Times
 
 ### Weekly Schedule
 
 #### Normal Weeks
 
-Weekdays
+Tuesday-Wednesday
 
-* **9:00-10:00**: Morning Activity
-* **10:00-12:30**: Lesson/Lab
-* **12:30-1:30**: Lunch
-* **1:30-4:00**: Lesson/Lab
-* **4:00-5:00**: Study Hall/Code Challenge/Homework Introduction
+* **5:30 - 6:15**  - Warm-up (sometimes)
+* **6:15 - 7:30**  - Lecture #1
+* **7:30 - 7:45**  - Breather
+* **7:00 - 9:00** -  Lecture #2
+* **9:00 - 9:45** -  Stuctured Homework help (sometimes)
+
+Thursday
+
+* **5:30 - 7:00**  - Outcomes
+
+Tuesday-Wednesday
+
+* **9:00 - 10:00**  - Warm-up
+* **10:00 - 12:00**  - Lecture #1
+* **12:00 - 1:00**   - Lunch
+* **1:00 - 4:00**    - Lecture #2 / Afternoon Lab
+* **4:00 - 5:00** -  Stuctured Lab help
 
 
 #### Project Weeks
@@ -153,15 +137,16 @@ Project weeks will be pretty much just time for you to work on your project.
 * We will also have presentations at the end of the week 🎉
 
 
-### Communicating with Your Instructors (Will)
-Typically, two instructors will be online each day to run the class. The lead Instructors (Jeremy/Will) lead the day's lessons together with an IA (Tabitha/Elektra) helping to run the class. 
+### Communicating with Your Instructors
+Typically, two instructors will be online each day to run the class. The lead Instructors (Billie/Will) lead the day's lessons together with an IA (Jurgen/Paresh) helping to run the class. 
 
 If you run into a technical issue that is specific to your code during the lecture, please direct message the IA that's on-camera that day for help, instead of interrupting the lecture.
 
 The instructors are here for you and to help you succeed, but we can't be available to you 24/7. There will be dedicated time for instructors to provide students with support outside of lessons. These are:
 
-- **Study Hall: 4:00PM - 5:00PM most weekdays**
-- **Office Hours: see [Course Schedule](https://docs.google.com/spreadsheets/d/1eEvOWAXWKSE640Hj3J3PCiqpOtWnpTNv8jTzU0vrxlE)**
+- **Study Hall: 9:00PM - 9:45PM Tu/We**
+- **Study Hall: 4:00PM - 5:00PM Saturdays**
+- **Office Hours: see [Course Calendar](https://docs.google.com/spreadsheets/d/1S-PfHSjQMZffIOYbZArslZViALU9gj-IZ9GGpqJccgc/edit#gid=1242176645)**
 - **Lab Support**
 - **Project Support**
 
@@ -175,7 +160,7 @@ If you reach out via Slack in the evening, the instructor will probably respond 
 
 
 
-### How to Ask for Help? (Will)
+### How to Ask for Help?
 
 Asking for help is what students find hardest in SEIR. It is also what ultimately determines whether or not students will be successful in this class.
 
@@ -193,13 +178,8 @@ How can we ask for help efficiently?
     1. Then, ask your neighbor
     1. Finally, ask an instructor
 
-> Check out
-> [this lesson plan](https://git.generalassemb.ly/SEIR-1130/effective_questions)
-> if you'd like to learn more about how to ask effective questions.
 
-#### Activity: Two Truths and a Lie - third group
-
-## Course Policies (Tabitha)
+## Course Policies
 ### Plagiarism 
 General Assembly is not a traditional educational institution, but we share some things in common. We have a plagiarism policy in place to create a healthy classroom culture where students prioritize their learning above all other goals for the duration of the cohort. We create a space where it is 'safe to fail' since 'failure' is such an integral part of the learning process.
 
@@ -208,20 +188,18 @@ General Assembly is not a traditional educational institution, but we share some
 * If you collaborate, you have to indicate that you did in a comment on the submission
 * You have to comment where you have used the solution branch (if one exists) or if you have used an external resource such as a tutorial - make sure even still you aren't overly reliant on anything. Use a few lines of code at most.
 * Make sure you're googling parts of problems rather than the whole problem. The problem solving part of code is the hardest part - make sure you're doing that part too! These aren't research assignments!
-* Plagiarized submissions will not be graded and may lead to removal from the program.
+
 
 ### Homework
-* Each day you will be given a homework assignment that is due the next morning at 9 AM. 
+
 * You must complete 80% of these homeworks to graduate the class.
 * They are graded on a 👍 or 👎 basis -- either they are complete or not. Whether they are complete or not depends on the effort you put in. They don't have to be 100% correct, but you do need to show that you put time into getting the correct answer.
 * You will be allowed to resubmit homeworks if you can not finish them that night. They are due One Week from their original date.
 
 ### Attendance 
-* The IA on duty will take attendance each morning and afternoon when class starts/resumes. You must be on the Zoom call with your camera turned on to be counted present. 
+* The IA on duty will take attendance each evening on weekdays and each morning/afternoon when class starts/resumes. You must be on the Zoom call with your camera turned on to be counted present. 
 * 3 tardies add up to 1 absence. Only 3 absences total are permitted. If you are absent, please notify the instructors and watch the class recording.
 * If you know you will be late or absent ahead of time, please reach out to the IA on duty and let them know. 
-
-#### Activity: Two Truths and a Lie - fourth group
 
 ## What Is an Immersive Course? (All)
 
@@ -238,7 +216,7 @@ Spend two minutes discussing some answers to the following question: **What does
 
 ### Cooperation & Teamwork. 
 
-* You'll be learning, eating, growing, failing, and succeeding **together** for the next 12 weeks.
+* You'll be learning, eating, growing, failing, and succeeding **together** for the next six months.
 * Teamwork will be paramount to your success as an SEIR student and beyond. Programming is a teamwork-driven profession. You will learn more from each other than from the instructors!
 * Do Not Isolate Yourself During This Time! Every part of the process - from learning the basics to building a resume to filling your portfolio with interesting projects to finding out about new job oppurtunities will be improved by building up a community and team here. 
 
@@ -253,7 +231,7 @@ Spend two minutes discussing some answers to the following question: **What does
 
 
 ### Be prepared to work hard. Very hard. 
-* The title says it all. Outside of regular class hours, you will spend many hours on homeworks and projects. The most successful students in the past are ones who invest long hours into the course. The instructors are your biggest cheerleaders and will provide support but we cannot do the work for you.
+* The title says it all. Outside of regular class hours, you will spend many hours on homeworks and projects. 
 
 
 ### Re-learning how to learn 
@@ -268,28 +246,6 @@ Spend two minutes discussing some answers to the following question: **What does
 * You will probably feel somewhat lost on this week's topic, feel more comfortable with last week lessons, and notice that a few weeks ago looks easy.
 * The first couple days would mostly be review, but we're going to ramp up the rigor and difficulty of the course slowly but surely! 
 
-### Productive Struggle 
-
-* The pace of this course is designed to push you past your limits.
-* The brain is like a muscle; sometimes it gets sore.
-* Struggling with the material doesn't mean you aren't learning; on the contrary, it reflects sustained and meaningful engagement with the material.
-
-### Embrace failure. 
-
-* Here we learn by doing, and things don't always (and usually won't) go right the first time.
-* This is normal. Expect it.
-* Fail often and learn from it.
-
-### Nothing is Magic.
-
-* "Magic is indistinguishable from any sufficiently advanced technology"
-  _-Arthur C Clarke_
-* Humans have reached a considerable degree of technological sophistication, there are so many places where we can begin to discover how a technology works, how the technology developed, how the technology is put together, what problem does the technology solve (or what does it make it easier to do?) etc.
-* 'The Programmer's Mindset' will come with time, but it begins with the question, "How is this working?"
-
-
-
-> Nothing above is specific to coding, but is true of learning in general.
 
 ### Balance.
 
@@ -316,8 +272,6 @@ Being able to ask for help effectively will become increasingly crucial as the c
 
 While instructors love helping out, we've found that students become stronger developers by learning to solve their own problems. Your instructors won't be following you to your jobs so it's important to develop a sense of self-sufficiency while you're here.
 
-#### Activity: Two Truths and a Lie - fifth group
-
 ## Growth Mindset
 
 > How do you think GROWTH MINDSET could come into play for a bootcamp student? 
@@ -333,13 +287,6 @@ This may be the most mentally challenging thing you've ever done - the first tim
 Programming is a mindset. It's about confidence and being open to failure. It's about knowing when to climb from the bottom of the cycle and being able to say, "Eh, I'm going to try this thing, even though I don't really understand it. AND I'm not going to get attached to it in case it doesn't work and I have to erase all my code and try something completely different."
 
 
-#### Activity: Two Truths and a Lie - sixth group
-
-## Classroom Constitution
-
-* Let's all collaborate, what are the behaviors we *do* want in our class? What are the ones we *don't* want?
-* [Class Constitution Example](https://git.generalassemb.ly/seir-622/class-constitution)
-
 ## Administrative Checks / Student Agreements
 - Update Slack
   - Username should be your full name (first and last name)
@@ -347,4 +294,3 @@ Programming is a mindset. It's about confidence and being open to failure. It's 
 - Update GitHub Enterprise
   - Name should be your full name (first and last name)
   - Profile image should be an image of you where we can clearly see your face
-- Review [Plagiarism rules](https://git.generalassemb.ly/seir-622/course-intro/blob/master/plagiarism.md)
