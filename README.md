@@ -129,6 +129,9 @@ Tuesday-Wednesday
 * **1:00 - 4:00**    - Lecture #2 / Afternoon Lab
 * **4:00 - 5:00** -  Stuctured Lab help
 
+#### Holidays
+
+The class will have holidays and not meet on: 5/29, 6/5, 7/3, 9/4
 
 #### Project Weeks
 
