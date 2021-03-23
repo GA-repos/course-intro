@@ -120,7 +120,7 @@ Thursday
 
 * **5:30 - 7:00**  - Outcomes
 
-Tuesday-Wednesday
+Saturday
 
 * **9:00 - 10:00**  - Warm-up
 * **10:00 - 12:00**  - Lecture #1
