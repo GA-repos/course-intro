@@ -14,7 +14,7 @@
 * Map out the topics and technologies of web development, and identify which we will and will not cover
 * List the core expectations of instructors and students
 * Determine guiding principles for our class culture
-* Review classroom and Zoom ettiquite and create a classroom constitution
+* Review classroom and Zoom ettiquite
 * Install necessary software and tools
 
 
