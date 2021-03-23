@@ -8,7 +8,7 @@
 - Jurgen Stevens
 - Paresh Sharma 
 
-## Learning Objectives
+## Learning Objectives (Will)
 
 * Get to know each other
 * Map out the topics and technologies of web development, and identify which we will and will not cover
@@ -30,10 +30,9 @@
 ## Welcome & Today's Schedule
 
 ### Today's Schedule:
-* 5:30 - 6:15  - Welcome to SEIR & Whole Team Intro
-* 6:15 - 6:45  - Course Content / Logistics / Policies
-* 6:45 - 7:00  - Breather
-* 7:00 - 9:45 -  Installfest/Command Line Interface
+* 5:30 - 6:00  - Welcome to SEIR & Whole Team Intro
+* 6:00 - 6:30  - Course Content / Logistics / Policies
+* 6:30 - 9:45 -  Installfest/Command Line Interface
 
 
 
@@ -58,7 +57,7 @@ A non-exhaustive list of technologies we cover...
 We cover these technologies / topics because they are foundational to web development, and learning the underlying concepts of how they work prepares you to learn and work in any web development technologies.
 
 
-### Introductions & Icebreaker
+### Introductions & Icebreaker  (Billie)
 Welcome to your first day of General Assembly's Software Engineering Immersive! Let's all introduce ourselves! 
 Say your:
 - Name
@@ -66,7 +65,7 @@ Say your:
 - What you were doing before this 
 - What brought you here to GA
 
-### Course Sequence
+### Course Sequence (Will)
 
 The course is divided into 4 units lasting roughtly 3 weeks each. Each unit concludes with a 5 day project.
 
@@ -98,10 +97,10 @@ React
 * **Project 4** Capstone project
 
 
-We'll also cover Data Structures & Algorithms throughout the units.
+We'll also some Data Structures & Algorithms, based on class demand.
 
 
-## Course Logistics
+## Course Logistics  (Billie)
 
 For all times we'll refer to Central Time Zone (CST) Times
 
@@ -182,7 +181,7 @@ How can we ask for help efficiently?
     1. Finally, ask an instructor
 
 
-## Course Policies
+## Course Policies (Paresh)
 ### Plagiarism 
 General Assembly is not a traditional educational institution, but we share some things in common. We have a plagiarism policy in place to create a healthy classroom culture where students prioritize their learning above all other goals for the duration of the cohort. We create a space where it is 'safe to fail' since 'failure' is such an integral part of the learning process.
 
@@ -208,7 +207,7 @@ General Assembly is not a traditional educational institution, but we share some
 
 Spend two minutes discussing some answers to the following question: **What does it mean to be in an "immersive" environment?**
 
-**Slack Thread!**
+
 
 ### There's no winning or losing. 
 
