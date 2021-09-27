@@ -1,14 +1,13 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to SEIR-Flex 3/23 - 9/18 🎉
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to SEIR-Flex 09/28 - 4/05 🎉
 
 # Lead Instructors:
 - Billie Heidelberg
-- Will Sutton
 
 # Instructional Assistants
-- Jurgen Stevens
+- Matt Keane
 - Paresh Sharma 
 
-## Learning Objectives (Will)
+## Learning Objectives (Billie)
 
 * Get to know each other
 * Map out the topics and technologies of web development, and identify which we will and will not cover
@@ -65,7 +64,7 @@ Say your:
 - What you were doing before this 
 - What brought you here to GA
 
-### Course Sequence (Will)
+### Course Sequence (Paresh)
 
 The course is divided into 4 units lasting roughtly 3 weeks each. Each unit concludes with a 5 day project.
 
@@ -100,7 +99,7 @@ React
 We'll also some Data Structures & Algorithms, based on class demand.
 
 
-## Course Logistics  (Billie)
+## Course Logistics  (Paresh)
 
 For all times we'll refer to Central Time Zone (CST) Times
 
@@ -148,7 +147,7 @@ The instructors are here for you and to help you succeed, but we can't be availa
 
 - **Study Hall: 9:00PM - 9:45PM Tu/We**
 - **Study Hall: 4:00PM - 5:00PM Saturdays**
-- **Office Hours: see [Course Calendar](https://docs.google.com/spreadsheets/d/1S-PfHSjQMZffIOYbZArslZViALU9gj-IZ9GGpqJccgc/edit#gid=1242176645)**
+- **Office Hours: see [Course Calendar](https://docs.google.com/spreadsheets/d/1RvTq4bMfzpWi_z5jwzvl9oY2awkimTsHEd_kINB42dM/edit?usp=sharing)**
 - **Lab Support**
 - **Project Support**
 
@@ -181,7 +180,7 @@ How can we ask for help efficiently?
     1. Finally, ask an instructor
 
 
-## Course Policies (Paresh)
+## Course Policies (Matt)
 ### Plagiarism 
 General Assembly is not a traditional educational institution, but we share some things in common. We have a plagiarism policy in place to create a healthy classroom culture where students prioritize their learning above all other goals for the duration of the cohort. We create a space where it is 'safe to fail' since 'failure' is such an integral part of the learning process.
 
@@ -203,7 +202,7 @@ General Assembly is not a traditional educational institution, but we share some
 * 3 tardies add up to 1 absence. Only 3 absences total are permitted. If you are absent, please notify the instructors and watch the class recording.
 * If you know you will be late or absent ahead of time, please reach out to the IA on duty and let them know. 
 
-## What Is an Immersive Course? (All)
+## What Is an Immersive Course? (Matt)
 
 Spend two minutes discussing some answers to the following question: **What does it mean to be in an "immersive" environment?**
 
