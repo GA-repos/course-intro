@@ -129,7 +129,7 @@ Saturday
 
 #### Holidays
 
-The class will have holidays and not meet on: 1/1, 1/17, 2/21
+The class will have holidays and not meet on: 1/1, 1/17, 2/21, 10/11, 11/11, 12/25
 
 #### Project Weeks
 
