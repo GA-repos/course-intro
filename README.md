@@ -101,7 +101,7 @@ We'll also some Data Structures & Algorithms, based on class demand.
 
 ## Course Logistics  (Paresh)
 
-For all times we'll refer to Central Time Zone (EST) Times
+For all times we'll refer to Central Time Zone (CST) Times
 
 ### Weekly Schedule
 
@@ -139,7 +139,7 @@ Project weeks will be pretty much just time for you to work on your project.
 
 
 ### Communicating with Your Instructors
-Typically, two instructors will be online each day to run the class. The lead Instructors (Billie/Will) lead the day's lessons together with an IA (Jurgen/Paresh) helping to run the class. 
+Typically, two instructors will be online each day to run the class. The lead Instructors (Billie) lead the day's lessons together with an IA (Paresh/Matt) helping to run the class. 
 
 If you run into a technical issue that is specific to your code during the lecture, please direct message the IA that's on-camera that day for help, instead of interrupting the lecture.
 
