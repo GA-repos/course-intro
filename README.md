@@ -101,7 +101,7 @@ We'll also some Data Structures & Algorithms, based on class demand.
 
 ## Course Logistics  (Paresh)
 
-For all times we'll refer to Central Time Zone (CST) Times
+For all times we'll refer to Central Time Zone (EST) Times
 
 ### Weekly Schedule
 
@@ -151,7 +151,60 @@ The instructors are here for you and to help you succeed, but we can't be availa
 - **Lab Support**
 - **Project Support**
 
-These are times when instructors are available to help you with bugs, answer questions or provide advice. 
+These are times when instructors are available to help you with bugs, answer qu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ions or provide advice. 
 
 The goal of this program is to turn you in to a self-sufficient software engineer, so our expectation is that you try to resolve issues on your own as much as possible. We use the remaining time to prepare lessons, grade projects, etc.
 
