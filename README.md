@@ -1,13 +1,19 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to SEIR-Flex 09/28 - 4/05 🎉
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to SEIR-Flex 03/22 - 09/17 🎉
 
 # Lead Instructors:
 - Billie Heidelberg
+- TBD
+- TBD
 
 # Instructional Assistants
-- Matt Keane
-- Paresh Sharma 
+- Katie Mcmillin
+- Justin White
+- Max Walker 
 
-## Learning Objectives (Billie)
+# Teaching Assistant:
+- Kegan Kingery
+
+## Learning Objectives
 
 * Get to know each other
 * Map out the topics and technologies of web development, and identify which we will and will not cover
@@ -29,9 +35,9 @@
 ## Welcome & Today's Schedule
 
 ### Today's Schedule:
-* 5:30 - 6:00  - Welcome to SEIR & Whole Team Intro
-* 6:00 - 6:30  - Course Content / Logistics / Policies
-* 6:30 - 9:45 -  Installfest/Command Line Interface
+* 6:30 - 7:00  - Welcome to SEIR & Whole Team Intro
+* 7:00 - 7:30  - Course Content / Logistics / Policies
+* 7:30 - 10:45 -  Installfest/Command Line Interface
 
 
 
@@ -56,7 +62,7 @@ A non-exhaustive list of technologies we cover...
 We cover these technologies / topics because they are foundational to web development, and learning the underlying concepts of how they work prepares you to learn and work in any web development technologies.
 
 
-### Introductions & Icebreaker  (Billie)
+### Introductions & Icebreaker
 Welcome to your first day of General Assembly's Software Engineering Immersive! Let's all introduce ourselves! 
 Say your:
 - Name
@@ -64,7 +70,7 @@ Say your:
 - What you were doing before this 
 - What brought you here to GA
 
-### Course Sequence (Paresh)
+### Course Sequence
 
 The course is divided into 4 units lasting roughtly 3 weeks each. Each unit concludes with a 5 day project.
 
@@ -99,7 +105,7 @@ React
 We'll also some Data Structures & Algorithms, based on class demand.
 
 
-## Course Logistics  (Paresh)
+## Course Logistics
 
 For all times we'll refer to Central Time Zone (CST) Times
 
@@ -109,27 +115,27 @@ For all times we'll refer to Central Time Zone (CST) Times
 
 Tuesday-Wednesday
 
-* **5:30 - 6:15**  - Warm-up (sometimes)
-* **6:15 - 7:30**  - Lecture #1
-* **7:30 - 7:45**  - Breather
-* **7:00 - 9:00** -  Lecture #2
-* **9:00 - 9:45** -  Stuctured Homework help (sometimes)
+* **6:30 - 7:15**  - Warm-up (sometimes)
+* **7:15 - 8:30**  - Lecture #1
+* **8:30 - 8:45**  - Breather
+* **9:00 - 10:00** -  Lecture #2
+* **10:00 - 10:45** -  Stuctured Homework help (sometimes)
 
 Thursday
 
-* **5:30 - 7:00**  - Outcomes
+* **6:30 - 8:00**  - Outcomes
 
 Saturday
 
-* **9:00 - 10:00**  - Warm-up
-* **10:00 - 12:00**  - Lecture #1
-* **12:00 - 1:00**   - Lunch
-* **1:00 - 4:00**    - Lecture #2 / Afternoon Lab
-* **4:00 - 5:00** -  Stuctured Lab help
+* **10:00 - 11:00**  - Warm-up
+* **11:00 - 1:00**  - Lecture #1
+* **2:00 - 3:00**   - Lunch
+* **3:00 - 5:00**    - Lecture #2 / Afternoon Lab
+* **5:00 - 6:00** -  Stuctured Lab help
 
 #### Holidays
 
-The class will have holidays and not meet on: 11/11, 11/24/, 11/25,11/27, 12/25, 12/28, 12/29, 1/1, 1/15, 2/19
+The class will have holidays and not meet on: 5/28, 6/18, 7/2, 9/3
 
 #### Project Weeks
 
@@ -147,64 +153,11 @@ The instructors are here for you and to help you succeed, but we can't be availa
 
 - **Study Hall: 9:00PM - 9:45PM Tu/We**
 - **Study Hall: 4:00PM - 5:00PM Saturdays**
-- **Office Hours: see [Course Calendar](https://docs.google.com/spreadsheets/d/1RvTq4bMfzpWi_z5jwzvl9oY2awkimTsHEd_kINB42dM/edit?usp=sharing)**
+- **Office Hours: see [Course Calendar](https://docs.google.com/spreadsheets/d/1JXKQb_upyTHX9S4eUTuUxpQ-F5_QfelbznqWkQ_b4Z0/edit?usp=sharing)**
 - **Lab Support**
 - **Project Support**
 
-These are times when instructors are available to help you with bugs, answer qu
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ions or provide advice. 
+These are times when instructors are available to help you with bugs, answer questions or provide advice. 
 
 The goal of this program is to turn you in to a self-sufficient software engineer, so our expectation is that you try to resolve issues on your own as much as possible. We use the remaining time to prepare lessons, grade projects, etc.
 
@@ -233,7 +186,7 @@ How can we ask for help efficiently?
     1. Finally, ask an instructor
 
 
-## Course Policies (Matt)
+## Course Policies
 ### Plagiarism 
 General Assembly is not a traditional educational institution, but we share some things in common. We have a plagiarism policy in place to create a healthy classroom culture where students prioritize their learning above all other goals for the duration of the cohort. We create a space where it is 'safe to fail' since 'failure' is such an integral part of the learning process.
 
@@ -255,7 +208,7 @@ General Assembly is not a traditional educational institution, but we share some
 * 3 tardies add up to 1 absence. Only 3 absences total are permitted. If you are absent, please notify the instructors and watch the class recording.
 * If you know you will be late or absent ahead of time, please reach out to the IA on duty and let them know. 
 
-## What Is an Immersive Course? (Matt)
+## What Is an Immersive Course?
 
 Spend two minutes discussing some answers to the following question: **What does it mean to be in an "immersive" environment?**
 
