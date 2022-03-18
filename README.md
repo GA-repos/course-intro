@@ -2,8 +2,8 @@
 
 # Lead Instructors:
 - Billie Heidelberg
-- TBD
-- TBD
+- Kareem Draz
+- Andrew Dietrick
 
 # Instructional Assistants
 - Katie Mcmillin
