@@ -11,7 +11,7 @@
 - Max Walker 
 
 # Teaching Assistant:
-- Kegan Kingery
+- Kagan Kingery
 
 ## Learning Objectives
 
@@ -107,7 +107,7 @@ We'll also some Data Structures & Algorithms, based on class demand.
 
 ## Course Logistics
 
-For all times we'll refer to Central Time Zone (CST) Times
+For all times we'll refer to Eastern Time Zone (EST) Times
 
 ### Weekly Schedule
 
