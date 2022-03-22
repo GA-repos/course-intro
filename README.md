@@ -153,7 +153,7 @@ The instructors are here for you and to help you succeed, but we can't be availa
 
 - **Study Hall: 10:00PM - 10:45PM Tu/We**
 - **Study Hall: 5:00PM - 6:00PM Saturdays**
-- **Office Hours: see [Course Calendar](https://docs.google.com/spreadsheets/d/1JXKQb_upyTHX9S4eUTuUxpQ-F5_QfelbznqWkQ_b4Z0/edit?usp=sharing)**
+- **Office Hours: see [Course Calendar](https://docs.google.com/spreadsheets/d/1JXKQb_upyTHX9S4eUTuUxpQ-F5_QfelbznqWkQ_b4Z0/edit#gid=1833561610)**
 - **Lab Support**
 - **Project Support**
 
